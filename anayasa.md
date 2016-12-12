@@ -72,7 +72,7 @@ Yürütme yetkisi ve görevi, Cumhurbaşkanı ve Bakanlar Kurulu tarafından, An
 
 **IX. Yargı yetkisi (MADDE 9)**
 
-Yargı yetkisi, Türk Milleti adına bağımsız mahkemelerce kullanılır.
+Yargı yetkisi, Türk Milleti adına bağımsız ve tarafsız mahkemelerce kullanılır.
 
 **X. Kanun önünde eşitlik (MADDE 10)**
 
