@@ -1072,15 +1072,26 @@ Meclisteki siyasî parti gruplarında, Meclis soruşturması ile ilgili görüş
 
 **A. Nitelikleri ve tarafsızlığı (MADDE 101)**
 
-Cumhurbaşkanı, kırk yaşını doldurmuş ve yüksek öğrenim yapmış Türkiye Büyük Millet Meclisi üyeleri veya bu niteliklere ve milletvekili seçilme yeterliğine sahip Türk vatandaşları arasından, halk tarafından seçilir.
+Cumhurbaşkanı, kırk yaşını doldurmuş, yüksek öğrenim yapmış, milletvekili seçilme yeterliğine sahip, doğuştan Türk vatandaşı olanlar arasından, doğrudan halk tarafından seçilir.
 
 Cumhurbaşkanının görev süresi beş yıldır.
 Bir kimse en fazla iki defa Cumhurbaşkanı seçilebilir.
 
-Cumhurbaşkanlığına Türkiye Büyük Millet Meclisi üyeleri içinden veya Meclis dışından aday gösterilebilmesi yirmi milletvekilinin yazılı teklifi ile mümkündür.
-Ayrıca, en son yapılan milletvekili genel seçimlerinde geçerli oylar toplamı birlikte hesaplandığında yüzde onu geçen siyasî partiler ortak aday gösterebilir.
+Cumhurbaşkanlığına, siyasi parti grupları, en son yapılan genel seçimlerde toplam geçerli oyların tek başına veya birlikte en az yüzde beşini almış olan siyasi partiler ile en az yüz bin seçmen aday gösterebilir.
 
-Cumhurbaşkanı seçilenin, varsa partisi ile ilişiği kesilir ve Türkiye Büyük Millet Meclisi üyeliği sona erer.
+Cumhurbaşkanı seçilen milletvekilinin, Türkiye Büyük Millet Meclisi üyeliği sona erer.
+
+Genel oyla yapılacak seçimde, geçerli oyların salt çoğunluğunu alan aday Cumhurbaşkanı seçilir.
+İlk oylamada bu çoğunluk sağlanamazsa, bu oylamayı izleyen ikinci pazar günü ikinci oylama yapılır.
+Bu oylamaya, ilk oylamada en çok oy almış iki aday katılır ve geçerli oyların çoğunluğunu alan aday CUmhurbaşkanı seçilir.
+
+İkinci oylamaya katılmaya hak kazanan adaylardan birinin herhangi bir nedenle seçime katılmaması halinde; ikinci oylama, boşalan adaylığın birinci oylamadaki sıraya göre ikame edilmesi suretiyle yapılır.
+İkinci oylamaya tek adayın kalması halinde, bu oylama referandum şeklinde yapılır.
+Aday, geçerli oyların salt çoğunluğunu aldığı takdirde Cumhurbaşkanı seçilir.
+
+Seçimlerin tamamlanamaması halinde mevcut Cumhurbaşkanı yenisi seçilinceye kadar görevine devam eder.
+
+Cumhurbaşkanlığı seçimlerine ilişkin diğer usûl ve esaslar kanunla düzenlenir.
 
 **B. Seçimi (MADDE 102)**
 
