@@ -1182,9 +1182,41 @@ Yüce Divanda seçilmeye engel bir suçtan mahkûm edilen Cumhurbaşkanının g�
 
 Cumhurbaşkanı görevde bulunduğu sürede işlediği iddia edilen suçlar için görevi bittikten sonra da bu madde hükmü uygulanır.
 
-**F. Cumhurbaşkanına vekillik etme (MADDE 106)**
+**F. Cumhurbaşkanı yardımcıları, Cumhurbaşkanına vekâlet ve bakanlar (MADDE 106)**
 
-Cumhurbaşkanının hastalık ve yurt dışına çıkma gibi sebeplerle geçici olarak görevinden ayrılması hallerinde, görevine dönmesine kadar, ölüm, çekilme veya başka bir sebeple Cumhurbaşkanlığı makamının boşalması halinde de yenisi seçilinceye kadar, Türkiye Büyük Millet Meclisi Başkanı Cumhurbaşkanlığına vekillik eder ve Cumhurbaşkanına ait yetkileri kullanır.
+Cumhurbaşkanı, seçildikten sonra bir veya daha fazla Cumhurbaşkanı yardımcısı atayabilir.
+
+Cumhurbaşkanlığı makamının herhangi bir nedenle boşalması halinde kırkbeş gün içinde Cumhurbaşkanı seçimi yapılır.
+Yenisi seçilene kadar Cumhurbaşkanı Yardımcısı Cumhurbaşkanlığına vekâlet eder ve Cumhurbaşkanına ait yetkileri kullanır.
+Genel seçime bir yıl ve daha az kalmışsa Türkiye Büyük Millet Meclisi seçimi de Cumhurbaşkanı seçimi ile birlikte yenilenir.
+Genel seçime bir yıldan fazla kalmışsa seçilen Cumhurbaşkanı Türkiye Büyük Millet Meclisi seçim tarihine kadar görevine devam eder.
+Kalan süreyi tamamlayan CUmhurbaşkanı açısından bu süre dönemden sayılmaz.
+Türkiye Büyük Millet Meclisi genel seçimlerin yapılacağı tarihte her iki seçim birlikte yapılır.
+
+Cumhurbaşkanının hastalık ve yurt dışına çıkma gibi sebeplerle geçici olarak görevinden ayrılması hallerinde, Cumhurbaşkanı Yardımcısı Cumhurbaşkanına vekâlet eder ve Cumhurbaşkanına ait yerleri kullanır.
+
+Cumhurbaşkanı yardımcıları ve bakanlar, Cumhurbaşkanı tarafından atanır ve görevden alınır.
+Türkiye Büyük Millet Meclisi üyeleri, Cumhurbaşkanı yardımcısı ve bakan olarak atanırlarsa üyelikleri sona erer.
+
+Cumhurbaşkanı yardımcıları ve bakanlar, Cumhurbaşkanına karşı sorumludur.
+Cumhurbaşkanı yardımcıları ve bakanlar hakknda görevleri ile ilgili suç işledikleri iddiasıyla Türkiye Büyük Millet Meclisi üye tamsayısının salt çoğunluğunun vereceği önergeyle soruşturma açılması istenebilir.
+Meclis, önergeyi en geç bir ay içinde görüşür ve üye tamsayısının beşte üçünün gizli oyuyla soruşturma açılmasına karar verebilir.
+
+Soruşturma açılmasına karar verilmesi halinde, Meclisteki siyasî partilerin, güçleri oranında komisyona verebilecekleri üye sayısının üç katı olarak gösterecekleri adaylar arasından her siyasî parti için ayrı ayrı ad çekme suretiyle kurulacak onbeş kişilik bir komisyon tarafından soruşturma yapılır.
+Komisyon, soruşturma sonucunu belirten raporunu iki ay içinde Meclis Başkanlığına sunar.
+Soruşturmanın bu sürede bitirilememesi halinde, komisyona bir aylık yeni ve kesin bir süre verilir.
+
+Rapor Başkanlığa verildiği tarihten itibaren on gün içinde dağıtılır, dağıtımından itibaren on gün içinde Genel Kurulda görüşülür.
+Türkiye Büyük Millet Meclisi üye tam sayısının üçte ikisinin gizli oyuyla Yüce Divana sevk kararı alabilir.
+Yüce Divan yargılaması üç ay içinde tamamlanır, bu sürede tamamlanamazsa bir defaya mahsus olmak üzere üç aylık ek süre verilir, yargılama bu sürede kesin olarak tamamlanır.
+
+Bu kişilerin görevde bulunduğu sürede işlediği iddia edilen suçlar için görevi bittikten sonra da bu madde hükmü uygulanır.
+
+Yüce Divanda seçilmeye engel bir suçtan mahkûm edilen Cumhurbaşkanı yardımcısı veya bakanın görevi sona erer.
+
+Cumhurbaşkanı yardımcıları ve bakanlar, göreviyle ilgili olmayan suçlarda yasama dokunulmazlığına ilişkin hükümlerden yararlanır.
+
+Bakanlığın kurulması, kaldırılması, görevleri ve yetkileri ile teşkilât yapısı Cumhurbaşkanlığı kararnamesi ile düzenlenir.
 
 **G. Cumhurbaşkanı Genel Sekreterliği (MADDE 107)**
 
