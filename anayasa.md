@@ -1304,13 +1304,18 @@ Bakanlar Kurulu, kanunun uygulanmasını göstermek veya emrettiği işleri beli
 
 Tüzükler, Cumhurbaşkanınca imzalanır ve kanunlar gibi yayımlanır.
 
-**H. Türkiye Büyük Millet Meclisi seçimlerinin Cumhurbaşkanınca yenilenmesi (MADDE 116)**
+**H. Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimlerinin (MADDE 116)**
 
-Bakanlar Kurulunun, 110 uncu maddede belirtilen güvenoyunu alamaması ve 99 uncu veya 111 inci maddeler uyarınca güvensizlik oyuyla düşürülmesi hallerinde; kırkbeş gün içinde yeni Bakanlar Kurulu kurulamadığı veya kurulduğu halde güvenoyu alamadığı takdirde Cumhurbaşkanı, Türkiye Büyük Millet Meclisi Başkanına danışarak, seçimlerin yenilenmesine karar verebilir.
+Türkiye Büyük Millet Meclisi üye tamsayısının beşte üç çoğunluğu ile seçimlerin yenilenmesine karar verebilir.
+Bu halde Türkiye Büyük Millet Meclisi genel seçimi ile Cumhurbaşkanlığı seçimi birlikte yapılır.
 
-Başbakanın güvensizlik oyu ile düşürülmeden istifa etmesi üzerine kırkbeş gün içinde veya yeni seçilen Türkiye Büyük Millet Meclisinde Başkanlık Divanı seçiminden sonra yine kırkbeş gün içinde Bakanlar Kurulunun kurulamaması hallerinde de Cumhurbaşkanı Türkiye Büyük Millet Meclisi Başkanına danışarak seçimlerin yenilenmesine karar verebilir.
+Cumhurbaşkanının seçimlerin yenilenmesine karar vermesi halinde Türkiye Büyük Millet Meclisi genel seçimi ile Cumhurbaşkanlığı seçimi birlikte yapılır.
 
-Yenilenme kararı Resmî Gazetede yayımlanır ve seçime gidilir.
+Cumhurbaşkanının ikinci döneminde Meclis tarafından seçimlerin yenilenmesine karar verilmesi halinde Cumhurbaşkanı bir defa daha aday olabilir.
+
+Seçimlerin birlikte yenilenmesine karar verilen Meclisin ve Cumhurbaşkanının yetkileri, bu organların seçilmesine kadar sürer.
+
+Bu şekilde seçilen Meclis ve Cumhurbaşkanının görev süreleri de beş yıldır.
 
 **İ. Millî Savunma**
 
