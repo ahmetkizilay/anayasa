@@ -899,7 +899,7 @@ Türkiye Büyük Millet Meclisi üyelerine ödenecek ödenek ve yolluklar, kendi
 
 **A. Genel olarak (MADDE 87)**
 
-Türkiye Büyük Millet Meclisinin görev ve yetkileri, kanun koymak, değiştirmek ve kaldırmak; Bakanlar Kurulunu ve bakanları denetlemek; Bakanlar Kuruluna belli konularda kanun hükmünde kararname çıkarma yetkisi vermek; bütçe ve kesinhesap kanun tasarılarını görüşmek ve kabul etmek; para basılmasına ve savaş ilânına karar vermek; milletlerarası andlaşmaların onaylanmasını uygun bulmak, Türkiye Büyük Millet Meclisi üye tam sayısının beşte üç çoğunluğunun kararı ile genel ve özel af ilânına karar vermek ve Anayasanın diğer maddelerinde öngörülen yetkileri kullanmak ve görevleri yerine getirmektir.
+Türkiye Büyük Millet Meclisinin görev ve yetkileri, kanun koymak, değiştirmek ve kaldırmak; bütçe ve kesinhesap kanun tekliflerini görüşmek ve kabul etmek; para basılmasına ve savaş ilânına karar vermek; milletlerarası andlaşmaların onaylanmasını uygun bulmak, Türkiye Büyük Millet Meclisi üye tam sayısının beşte üç çoğunluğunun kararı ile genel ve özel af ilânına karar vermek ve Anayasanın diğer maddelerinde öngörülen yetkileri kullanmak ve görevleri yerine getirmektir.
 
 **B. Kanunların teklif edilmesi ve görüşülmesi (MADDE 88)**
 
