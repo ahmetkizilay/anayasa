@@ -1163,13 +1163,24 @@ Kararnameler ve yönetmelikler, yayımdan sonraki bir tarih belirlenmemişse, Re
 
 Cumhurbaşkanı ayrıca Anayasada ve kanunlarda verilen seçme ve atama görevleri ile diğer görevleri yerine getirir ve yetkileri kullanır.
 
-**E.  Sorumluluk ve sorumsuzluk hali (MADDE 105)**
+**E.  Cumhurbaşkanının cezai sorumluluğu (MADDE 105)**
 
-Cumhurbaşkanının, Anayasa ve diğer kanunlarda Başbakan ve ilgili bakanın imzalarına gerek olmaksızın tek başına yapabileceği belirtilen işlemleri dışındaki bütün kararları, Başbakan ve ilgili bakanlarca imzalanır; bu kararlardan Başbakan ve ilgili bakan sorumludur.
+Cumhurbaşkanı hakkında, bir suç işlediği iddiasıyla Türkiye Büyük Millet Meclisi üye tamsayısınıın salt çoğunluğunun vereceği önergeyle soruşturma açılması istenebilir.
+Meclis, önergeyi en geç bir ay içinde görüşür ve üye tamsayısının beşte üçünün gizli oyuyla soruşturma açılmasına karar verebilir.
 
-Cumhurbaşkanının resen imzaladığı kararlar ve emirler aleyhine Anayasa Mahkemesi dahil, yargı mercilerine başvurulamaz.
+Soruşturma açılmasına karar verilmesi halinde, Meclisteki siyasî partilerin, güçleri oranında komisyona verebilecekleri üye sayısının üç katı olarak gösterecekleri adaylar arasından her siyasi parti için ayrı ayrı ad çekme suretiyle kurulacak onbeş kişilik bir komisyon tarafından soruşturma yapılır.
+Komisyon, soruşturma sonucunu belirten raporunu iki ay içinde Meclis Başkanlığına sunar.
+Soruşturmanın bu sürede bitirilememesi halinde, komisyona bir aylık yeni ve kesin bir süre verilir.
 
-Cumhurbaşkanı, vatana ihanetten dolayı, Türkiye Büyük Millet Meclisi üye tamsayısının en az üçte birinin teklifi üzerine, üye tamsayısının en az dörtte üçünün vereceği kararla suçlandırılır.
+Rapor Başkanlığa verildiği tarihten itibaren on gün içinde dağıtılır, dağıtımından itibaren on gün içinde Genel Kurulda görüşülür.
+Türkiye Büyük Millet Meclisi üye tam sayısının üçte ikisinin gizli oyuyla Yüce Divana sevk kararı alabilir.
+Yüce Divan yargılaması üç ay içinde tamamlanır, bu sürede tamamlanamazsa bir defaya mahsus olmak üzere üç aylık ek süre verilir, yargılama bu sürede kesin olarak tamamlanır.
+
+Hakkında soruşturma açılmasına karar verilen Cumhurbaşkanı seçim kararı alamaz.
+
+Yüce Divanda seçilmeye engel bir suçtan mahkûm edilen Cumhurbaşkanının görevi sona erer.
+
+Cumhurbaşkanı görevde bulunduğu sürede işlediği iddia edilen suçlar için görevi bittikten sonra da bu madde hükmü uygulanır.
 
 **F. Cumhurbaşkanına vekillik etme (MADDE 106)**
 
