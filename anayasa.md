@@ -1897,17 +1897,34 @@ Sayıştayın kuruluşu, işleyişi, denetim usulleri, mensuplarının nitelikle
 
 **Malî Hükümler**
 
-**I. Bütçe**
+**I. Bütçe ve kesinhesap (MADDE 161)**
 
-**A. Bütçenin hazırlanması ve uygulanması (MADDE 161)**
+Kamu idarelerinin ve kamu iktisadî teşebbüsleri dışındaki kamu tüzel kişilerinin harcamaları yıllık bütçelerle yapılır.
 
-Devletin ve kamu iktisadî teşebbüsleri dışındaki kamu tüzelkişilerinin harcamaları, yıllık bütçelerle yapılır.
+Malî yıl başlangıcı ile merkezî yönetim bütçesinin hazırlanması, uygulanması ve kontrolü ile yatırımlar veya bir yıldan fazla sürecek iş ve hizmetler için özel süre ve usuller kanunla düzenlenir.
+Bütçe kanununa, bütçe ile ilgili hükümler dışında hiçbir hüküm konamaz.
 
-Malî yıl başlangıcı ile merkezî yönetim bütçesinin hazırlanması, uygulanması ve kontrolü kanunla düzenlenir.
+Cumhurbaşkanı bütçe kanun teklifini, malî yılbaşından en az yetmişbeş gün önce, Türkiye Büyük Millet Meclisine sunar.
+Bütçe teklifi Bütçe Komisyonunda görüşülür.
+Komisyonun ellibeş gün içinde kabul edeceği metin Genel Kurulda görüşülür ve malî yılbaşına kadar karara bağlanır.
 
-Kanun, kalkınma planları ile ilgili yatırımlar veya bir yıldan fazla sürecek iş ve hizmetler için özel süre ve usuller koyabilir.
+Bütçe kanununun süresinde yürürlüğe konulamaması halinde, bir önceki yılın bütçesi yeniden değerlendirme oranına göre arttırılarak yürülüğe konur.
 
-Bütçe kanununa, bütçe ile ilgili hükümler dışında hiçbir hüküm konulamaz.
+Türkiye Büyük Millet Meclisi üyeleri, Genel Kurulda kamu idare bütçeleri hakkında düşüncelerini her bütçenin görüşülmesi sırasında açıklar, gider arttırıcı veya gelirleri azaltıcı önerilerde bulunamazlar.
+
+Genel Kurulda kamu idare bütçeleri ile değişiklik önerheleri, üzerinde ayrıca görüşme yapılmaksızın okunur ve oylanır.
+
+Merkezî yönetim bütçesiyle verilen ödenek, harcanabilecek tutarın sınırını gösterir.
+Harcanabilecek tutarın Cumhurbaşkanlığı kararnamesi ile aşılabileceğine dair bütçe kanununa hüküm konulamaz.
+
+Carî yıl bütçesindeki ödenek artışını öngören değişiklik teklifleri ile carî ve izleyen yılların bütçelerine malî yük getiren tekliflerde, öngörülen giderleri karşılayabilecek malî kaynak gösterilmesi zorunludur.
+
+Merkezi yönetim kesinhesap kanunu teklifi, ilgili olduğu malî yılın sonundan başlayarak en geç altı ay sonra Cumhurbaşkanı tarafından Türkiye Büyük Millet Meclisine sunulur.
+Sayıştay genel uygunluk bildirimini, ilişkin olduğu kesinhesap kanun teklifinin verilmesinden başlayarak en geç yetmişbeş gün içinde Meclise sunar.
+
+Kesinhesap kanunu teklifi ve genel uygunluk bildiriminin Türkiye Büyük Millet Meclisine verilmiş olması, ilgili yıla ait Sayıştayca sonuçlandırılmamış denetim ve hesap yargulamasını önlemez ve bunların karar bağlandığı anlamına gelmez.
+
+Kesınhesap kanunu teklifi, yeni yıl bütçe kanunu teklifiyle birlikte görüşürür ve karara bağlanır.
 
 **B. Bütçenin görüşülmesi (MADDE 162)**
 
