@@ -1448,7 +1448,8 @@ Türkiye, merkezî idare kuruluşu bakımından, coğrafya durumuna, ekonomik ş
 İllerin idaresi yetki genişliği esasına dayanır.
 
 Kamu hizmetlerinin görülmesinde verim ve uyum sağlamak amacıyla, birden çok ili içine alan merkezî idare teşkilatı kurulabilir.
-Bu teşkilatın görev ve yetkileri kanunla düzenlenir.
+
+Merkezi idare kapsamındaki kamu kurum ve kuruluşlarının; kuruluş, görev, yetki ve sorumlulukları Cumhurbaşkanlığı kararnamesi ile düzenlenir.
 
 **2. Mahallî idareler (MADDE 127)**
 
