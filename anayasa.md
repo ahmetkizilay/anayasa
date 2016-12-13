@@ -1346,13 +1346,24 @@ Cumhurbaşkanı katılamadığı zamanlar Millî Güvenlik Kurulu Başbakanın b
 
 Millî Güvenlik Kurulu Genel Sekreterliğinin teşkilatı ve görevleri kanunla düzenlenir.
 
-**III. Olağanüstü yönetim usulleri**
+**III. Olağanüstü hal yönetimi (MADDE 119)**
 
-**A. Olağanüstü haller**
+Cumhurbaşkanı, savaş hali, savaşı gerektirecek bir durumun başgöstermesi, ayaklanma olması veya vatan veya Cumhuriyete harşı kuvvetli ve eylemli bir kalkışmanın veya ülkenin ve milletin bölünmezliğini içten veya dıştan tehlikeye düşüren şiddet hareketlerinin yaygınlaşması; anayasal düzeni veya temel hak ve hürriyetleri ortadan kaldırmaya yönelik yaygın şiddet hareketlerinin ortaya çıkması; kamu düzeninin ciddî şekilde bozulması, tabiî afet, tehlikeli salgın hastalıklar veya ağır ekonomik bunalım hallerinde yurdun tamamında veya bir bölgesinde, süresi altı ayı geçmemek üzere olağanüstü hal ilân eddebilir.
 
-**1. Tabiî afet ve ağır ekonomik bunalım sebebiyle olağanüstü hal ilânı (MADDE 119)**
+Olağanüstü hal ilanı kararı verildiği gün Resmî Gazetede yayımlanır ve aynı gün Türkiye Büyük Millet Meclisinin onayına sunulur.
 
-Tabiî afet, tehlikeli salgın hastalıklar veya ağır ekonomik bunalım  hallerinde, Cumhurbaşkanı başkanlığında toplanan Bakanlar Kurulu, yurdun bir veya birden fazla bölgesinde veya bütününde süresi altı ayı geçmemek üzere olağanüstü hal ilân edebilir.
+Türkiye Büyük Millet Meclisi tatilde ise derhal toplantıya çağırılır; Meclis gerekli gördüğü takdirde olağanüstü halin süresini kısaltabilir, uzatabilir veya olağanüstü hali kaldırabilir.
+
+Cumhurbaşkanının talebiyle Türkiye Büyük Millet Meclisi her defasında dört ayı geçmemek üzere süreyi uzatabilir.
+Savaş hallerinde bu dört aylık süre aranmaz.
+
+Olağanüstü hallerde vatandaşlar için getirilecek para, mal ve çalışma yükümlülükleri ile 15 inci maddedeki ilkeler doğrultusunda temel hak ve hürriyetlerin nasıl sınırlandırılacağı veya geçici olarak durdurulacağı, hangi hükümlerin uygulanacağı ve işlemlerin nasıl yürütüleceği kanunla düzenlenir.
+
+Olağanüstü hallerde Cumhurbaşkanı, olağanüstü halin gerekli kıldığı konularda Cumhurbaşkanlığı kararnamesi çıkarabilir.
+Kanun hükmündeki kararnameler Resmi Gazetede yayınlanır, aynı gün Meclis onayına sunulur.
+
+Savaş ve mücbir sebeplerle Türkiye Büyük Millet Meclisinin toplanamaması hariç olmak üzere; olağanüstü hal sırasında çıkarılan Cumhurbaşkanlığı kararnameleri bir ay içinde Türkiye Büyük Mİllet Meclisinde görüşülür ve karar bağlanır.
+Aksi halde olağanüstü hallerde çıkarılan Cumhurbaşkanlığı kararnamesi kendiliğinden yürürlükten kalkar.
 
 **2. Şiddet olaylarının yaygınlaşması ve kamu düzeninin ciddî şekilde bozulması sebepleriyle olağanüstü hal ilânı (MADDE 120)**
 
