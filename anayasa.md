@@ -2041,6 +2041,62 @@ Bu maddenin Türkiye Büyük Millet Meclisinde kabul edildiği tarihte; soruştu
 
 Bu maddenin yürürlüğe girdiği tarihten itibaren onbeş gün içinde; Anayasa ve Adalet komisyonları üyelerinden kurulu Karma Komisyon Başkanlığında, Türkiye Büyük Millet Meclisi Başkanlığında, Başbakanlıkta ve Adalet Bakanlığında bulunan yasama dokunulmazlığının kaldırılmasına ilişkin dosyalar, gereğinin yapılması amacıyla, yetkili merciine iade edilir.
 
+**GEÇİCİ MADDE 21**
+A) Türkiye Büyük Millet Meclisinin 27 inci Yasama Dönemi milletvekili genel seçimi ve CUmhurbaşkanlığı seçimi 3/11/2019 tarihinde birlikte yapılır.
+Seçimin yapılacağı tarihe kadar Türkiye Büyük Millet Meclisi üyeleri ve Cumhurbaşkanının görevi devam eder.
+Meclisin seçim karar alması halinde 27 inci Yasama Dönemi milletvekili genel seçimi ve Cumhurbaşkanlığı seçimi birlikte yapılır.
+
+B) Bu Kanunun yürürlüğe girmesinden itibaren en geç altı ay içinde Türkiye Büyük Millet Meclisi bu değişikliklerin gerektirdiği Meclis İçtüzüğünü ve kanuni düzenlemeleri yapar.
+Cumhurbaşkanlığı kararnamesi ile düzenleneceği belirtilen değişiklikler ise Cumhurbaşkanı tarafından aynı sürede düzenlenir.
+
+C) Anayasanın 159 uncu maddesinde yapılan düzenlemeye göre Hâkimler ve Savcılar Kurulu üyeleri en geç otuz gün içinde seçilirler ve bu Kanunun yürürlüğe girdiği tarihten sonraki kırkıncı günü takip eden iş günü göreve başlarlar.
+Başvurular, bu maddenin yürürlüğe girdiği tarihten itibaren beş gün içinde Turkiye Büyük Millet Meclisi Başkanlığına yapılır.
+Başkanlık, başvuruları Anayasa ve Adalet komisyonları üyelerinden kurulu Karma Komisyona gönderir.
+Komisyon on gün içinde her bir üyelik için üç adayı üye tam sayısının üçte iki çoğunluğuyla belirler.
+Birinci oylamada üçte iki çoğunluk ile seçimin sonuçlandırılaması halinde, ikinci ve üçüncü oylamalar yapılır; bu oylamalarda üye tamsayısının beşte üç çoğunluğunun oyunu alan aday seçilmiş olur.
+Beşte üç çoğunluğun sağlanamaması halinde üçüncü oylamada en çok oyu almış olan, seçilecek üyelerin iki katı aday arasından ad çekme usulu ile üye belirleme işlemi tamamlanır.
+Türkiye Büyük Millet Meclisi Genel Kurulu aynı usul ve nisapları gözeterek onbeş gün içinde seçimi tamamlar.
+Mevcut Hâkimler ve savcılar Yüksek Kurulu üyeleri, yeni üyelerin göreve başlayacağı tarihe kadar görevlerine devam eder ve bu süre içinde yürürlükteki Kanun hükümlerine göre çalışır.
+
+D) Askerî Yargıtay ve Askerî Yüksek İdare Mahkemesinden Anayasa Mahkemesi üyeliğine seçilmiş bulunan kişilerin herhangi bir sebeple görevleri sona erene kadar üyelikleri devam eder.
+
+E) Bu Kanunun yürürlüğe girdiği tarih itibarıyle Askerî Yargıtay, Askerî Yüksek İdare Mahkemesi ve askerî mahkemeler kaldırılmıştır.
+
+Bu Kanunun yürürlüğe girdiği tarihten itibaren iki ay içinde; idarî görev ve kadrolarda bulunanlar dâhil askerî hâkim ve savcı sınıfından olanlar, tercihleri ve müktesepleri dikkate alınmak suretiyle;
+
+a) Hâkimler ve Savcılar Kurulunca adli veya idari yargıda hâkim veya savcı
+
+b) Milli Savunma Bakanlığınca, kukuk müşaviri veya muvazzaf subay,
+
+olarak atanır.
+
+Türk Silahlı Kuvvetleri bünyesinde muvazzaf subay veya hukuk müşaviri olarak atananlar, askerî hakimler ve savcılar için öngörülen aylık ödenek ve diğer özlük haklarından yararlanmaya devam eder.
+
+Kaldırılan Askerî Yüksek İdare Mahkemesinde görev yapan askerî hâkim ve savcı sınıfından olmayan üyeler uygun bir göreve atanır.
+
+Kaldırılan askerî yargı mercilerinde görülmekte olan dosyalardan;
+
+a) Askerî Yargıtayda olanlar, Yargıtaya,
+
+b) Askerî Yüksek İdare Mahkemesinde olanlar, Danıştayda
+
+c) ASkeri mahkemelerde olanlar, görevli ve yetkili adlî yargı mercilerine
+
+ç) Askerî savcılıklarda olanlar, yetkili Cumhuriyet başsavcılıklarına,
+
+herhangi bir karara gerek kalmaksızın listeye bağlanarak devredilir.
+Yargıtay ve Danıştay, kendi devir işlemlerini yürütür.
+Diğer dosyaların devirleri ise Hakimler ve Savcılar Kurulu tarafından oluşturulacak komisyonlar tarafından yürütülür.
+
+Kaldırılan askeri yargı mercilerinde görev yapan diğer tüm idari personelin atama ve görevlendirilmeleri, Milli Savunma Bakanlığınca yapılır.
+
+F) Bu Kanun yürürlüğe girdiğinde yürürlükte bulunan kanun hükmünde kararnameler, tüzükler, Başbakanlık ve Bakanlar Kurulu tarafından çıkarılan yönetmelikler ile diğer düzenleyici işlemler yürürlükten kaldırılmadıkça geçerliliğini sürdürür.
+
+G) Kanunlar ve diğer mevzuat ile Başbakanlık ve Bakanlar Kuruluna verilen yetkiler, ilgili mevzuatta değişiklik yapılıncaya kadar Cumhurbaşkanı tarafından kullanılır.
+
+H) Anayasanın 67 inci maddesinin son fıkrasının hükmü, bu Kanunun yürürlüğe girdiği tarihten sonra birlikte yapılacak ilk milletvekili genel seçimi ile Cumhurbaşkanlığı seçimi bakımından uygulanmaz.
+
+
 ## YEDİNCİ KISIM
 **Son Hükümler**
 
