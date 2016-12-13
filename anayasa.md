@@ -1003,7 +1003,7 @@ Meclis araştırması, genel görüşme ve yazılı soru önergelerin verilme ş
 
 **I. Cumhurbaşkanı**
 
-**A. Nitelikleri ve tarafsızlığı (MADDE 101)**
+**A. Adaylık ve seçimi (MADDE 101)**
 
 Cumhurbaşkanı, kırk yaşını doldurmuş, yüksek öğrenim yapmış, milletvekili seçilme yeterliğine sahip, doğuştan Türk vatandaşı olanlar arasından, doğrudan halk tarafından seçilir.
 
