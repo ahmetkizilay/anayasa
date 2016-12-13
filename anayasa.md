@@ -797,14 +797,13 @@ En az ilkokul mezunu olmayanlar, kısıtlılar, askerlikle ilişiği olanlar, ka
 
 Hâkimler ve savcılar, yüksek yargı organları mensupları, yükseköğretim kurumlarındaki öğretim elemanları, Yükseköğretim Kurulu üyeleri, kamu kurum ve kuruluşlarının memur statüsündeki görevlileri ile yaptıkları hizmet bakımından işçi niteliği taşımayan diğer kamu görevlileri ve Silahlı Kuvvetler mensupları, görevlerinden çekilmedikçe, aday olamazlar ve milletvekili seçilemezler.
 
-**C. Türkiye Büyük Millet Meclisinin seçim dönemi (MADDE 77)**
+**C. Türkiye Büyük Millet Meclisi ve Cumhurbaşkanının seçim dönemi (MADDE 77)**
 
-Türkiye Büyük Millet Meclisinin seçimleri dört yılda bir yapılır.
+Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri beş yılda bir aynı günde yapılır.
 
-Meclis, bu süre dolmadan seçimin yenilenmesine karar verebileceği gibi, Anayasada belirtilen şartlar altında Cumhurbaşkanınca verilecek karara göre de seçimler yenilenir.
 Süresi biten milletvekili yeniden seçilebilir.
 
-Yenilenmesine karar verilen Meclisin yetkileri, yeni Meclisin seçilmesine kadar sürer.
+Cumhurbaşkanlığı seçiminde birinci oylamada gerekli çoğunluğun sağlanamaması halinde 101 inci maddedeki usule göre ikinci oylama yapılır.
 
 **D. Türkiye Büyük Millet Meclisi seçimlerinin geriye bırakılması ve ara seçimleri (MADDE 78)**
 
