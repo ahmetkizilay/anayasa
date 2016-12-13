@@ -1409,7 +1409,9 @@ Sıkıyönetim komutanları Genelkurmay Başkanlığına bağlı olarak görev y
 
 İdarenin kuruluş ve görevleri, merkezden yönetim ve yerinden yönetim esaslarına dayanır.
 
-Kamu tüzelkişiliği, ancak kanunla veya kanunun açıkça verdiği yetkiye dayanılarak kurulur.
+Kamu tüzelkişiliği, kanunla veya Cumhurbaşkanlığı kararnamesiyle kurulur.
+
+Üst düzey kamu görevlilerinin atanmalarına ilişkin usul ve esaslar Cumhurbaşkanlığı kararnamesiyle düzenlenir.
 
 **2. Yönetmelikler (MADDE 124)**
 
