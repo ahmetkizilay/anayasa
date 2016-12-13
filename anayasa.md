@@ -805,20 +805,20 @@ Süresi biten milletvekili yeniden seçilebilir.
 
 Cumhurbaşkanlığı seçiminde birinci oylamada gerekli çoğunluğun sağlanamaması halinde 101 inci maddedeki usule göre ikinci oylama yapılır.
 
-**D. Türkiye Büyük Millet Meclisi seçimlerinin geriye bırakılması ve ara seçimleri (MADDE 78)**
+**D. Yedek Milletvekilliği ve seçimlerin ertelenmesi (MADDE 78)**
 
-Savaş sebebiyle yeni seçimlerin yapılmasına imkân görülmezse, Türkiye Büyük Millet Meclisi, seçimlerin bir yıl geriye bırakılmasına karar verebilir.
+Türkiye Büyük Millet Meclisi üyeliğinin düşmesi, düşürülmesi, ölüm ile diğer
+boşalma hallerinde boşalan üyelikler aynı siyasi partinin yedek milletvekilleriyle doldurulur.
 
-Geri bırakma sebebi ortadan kalkmamışsa, erteleme kararındaki usule göre bu işlem tekrarlanabilir.
+Siyasi partilerin seçim çevrelerindeki milletvekili aday listelerinde bulunup da seçilemeyen adaylar bulundukları sıra esas alınarak yedek milletvekili sayılırlar.
+Ayrıca siyasi partiler genel seçimlerde her seçim çevresinde en az iki olmak üzere seçilecek milletvekili sayısının beşte biri oranında, bağımsız adaylar ise bir yedek milletvekili aday gösterirler.
+Milletvekillerinde boşalma olması halinde boşalan üyeliklere öncelikle o seçim çevresindeki asıl aday listesinde bulunup da seçilemeyen yedek milletvekilleri ikame olunur.
+Bir seçim çevresinde tüm milletvekillerinin aynı siyasü parti adayları tarafından kazanılmış olduğu hallerde, yedek milletvekili listesindeki adaylar sırayla boşalan milletvekilliğine ikame olunur.
+Boşalan milletvekilliğinin bağımsız adaylardan olması halinde, bu milletvekilinin oy pusulasında gösterilen yedek milletvekili adayı, boşalan milletvekilliğine ikame olunur.
+İkame gerçekleşmedikçe yedek milletvekilliği için hiçbir hak oluşmaz.
 
-Türkiye Büyük Millet Meclisi üyeliklerinde boşalma olması halinde, ara seçime gidilir.
-Ara seçim, her seçim döneminde bir defa yapılır ve genel seçimden otuz ay geçmedikçe ara seçime gidilemez.
-Ancak, boşalan üyeliklerin sayısı, üye tamsayısının yüzde beşini bulduğu hallerde, ara seçimlerinin üç ay içinde yapılmasına karar verilir.
-
-Genel seçimlere bir yıl kala, ara seçimi yapılamaz.
-
-Yukarıda yazılı hallerden ayrı olarak, bir ilin veya seçim çevresinin, Türkiye Büyük Millet Meclisinde üyesinin kalmaması halinde, boşalmayı takip eden doksan günden sonraki ilk Pazar günü ara seçim yapılır.
-Bu fıkra gereği yapılacak seçimlerde Anayasanın 127 nci maddesinin üçüncü fıkrası hükmü uygulanmaz.
+Savaş sebebiyle seçimlerin yapılmasına imkân görülmezse, Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimlerinin bir yıl ertelenmesine Meclis karar verebilir.
+Erteleme sebebi ortadan kalkmamışsa, aynı usule göre bu işlem tekrarlanabilir.
 
 **E. Seçimlerin genel yönetim ve denetimi (MADDE 79)**
 
