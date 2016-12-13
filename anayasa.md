@@ -26,6 +26,7 @@ TÜRK MİLLETİ TARAFINDAN, demokrasiye âşık Türk evlatlarının vatan ve mi
 **Genel Esaslar**
 
 **I. Devletin şekli (MADDE 1)**
+
 Türkiye Devleti bir Cumhuriyettir.
 
 **II. Cumhuriyetin nitelikleri (MADDE 2)**
@@ -805,7 +806,7 @@ Süresi biten milletvekili yeniden seçilebilir.
 
 Yenilenmesine karar verilen Meclisin yetkileri, yeni Meclisin seçilmesine kadar sürer.
 
-** D. Türkiye Büyük Millet Meclisi seçimlerinin geriye bırakılması ve ara seçimleri (MADDE 78)**
+**D. Türkiye Büyük Millet Meclisi seçimlerinin geriye bırakılması ve ara seçimleri (MADDE 78)**
 
 Savaş sebebiyle yeni seçimlerin yapılmasına imkân görülmezse, Türkiye Büyük Millet Meclisi, seçimlerin bir yıl geriye bırakılmasına karar verebilir.
 
