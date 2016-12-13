@@ -1632,6 +1632,9 @@ Davaların en az giderle ve mümkün olan süratle sonuçlandırılması, yargı
 
 Mahkemelerin kuruluşu, görev ve yetkileri, işleyişi ve yargılama usulleri kanunla düzenlenir.
 
+Disiplin mahkemeleri dışında askeri mahkemeler kurulamaz.
+Ancak, savaş halinde asker kişilerin görevleri ile ilgili olarak işledikleri suçlara ait davalara bakmakla görevli askerimahkemeler kurulabilir.
+
 **F. Devlet Güvenlik Mahkemeleri (MADDE 143)** `Mülga`
 
 **G. Adalet hizmetlerinin denetimi (MADDE 144)**
