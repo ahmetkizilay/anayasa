@@ -787,7 +787,7 @@ Bu maddede sayılan hakların kullanılma biçimi, Kamu Denetçiliği Kurumunun 
 
 **A. Kuruluşu (MADDE 75)**
 
-Türkiye Büyük Millet Meclisi genel oyla seçilen beşyüzelli milletvekilinden oluşur.
+Türkiye Büyük Millet Meclisi genel oyla seçilen altıyüz milletvekilinden oluşur.
 
 **B. Milletvekili seçilme yeterliliği (MADDE 76)**
 
