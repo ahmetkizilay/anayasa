@@ -1021,17 +1021,19 @@ Meclisteki açık görüşmelerin, o oturumdaki Başkanlık Divanının teklifi 
 
 **IV. Türkiye Büyük Millet Meclisinin bilgi edinme ve denetim yolları**
 
-**A. Genel olarak (MADDE 98)**
+**A.(MADDE 98)**
 
-Türkiye Büyük Millet Meclisi soru, Meclis araştırması, genel görüşme, gensoru ve Meclis soruşturması yollarıyla denetleme yetkisini kullanır.
-
-Soru, Bakanlar Kurulu adına, sözlü veya yazılı olarak cevaplandırılmak üzere Başbakan veya bakanlardan bilgi istemekten ibarettir.
+Türkiye Büyük Millet Meclisi belli bir konuda Meclis araştırması ve genel görüşme yapabilir; milletvekilleri yazılı soru sorabilir.
 
 Meclis araştırması, belli bir konuda bilgi edinilmek için yapılan incelemeden ibarettir.
 
-Genel görüşme, toplumu ve Devlet faaliyetlerini ilgilendiren belli bir konunun, Türkiye Büyük Millet Meclisi Genel Kurulunda görüşülmesidir.
+Genel görüşme, toplumu ilgilendiren belli bir konunun Türkiye Büyük Millet Meclisi Genel Kurulunda görüşülmesidir.
 
-Soru, Meclis araştırması ve genel görüşme ile ilgili önergelerin verilme şekli, içeriği ve kapsamı ile cevaplandırılma, görüşme ve araştırma yöntemleri Meclis İçtüzüğü ile düzenlenir.
+Genel görüşme ve Meclis araştırmasına yürütme adına herhangi bir temsilci katılamaz.
+
+Yazılı soru; yazılı olarak en geç onbeş gün içerisinde cevaplanmak üzere milletvekillerinin, Cumhurbaşkanı yardımcıları ve bakanlara yazılı olarak soru sormalarından ibarettir.
+
+Meclis araştırması, genel görüşme ve yazılı soru önergelerin verilme şekli, içeriği ve kapsamı ile araştırma usûlleri Meclis İçtüzüğü ile düzenlenir.
 
 **B. Gensoru (MADDE 99)**
 
