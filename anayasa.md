@@ -2066,7 +2066,7 @@ Bu Kanunun yürürlüğe girdiği tarihten itibaren iki ay içinde; idarî göre
 
 a) Hâkimler ve Savcılar Kurulunca adli veya idari yargıda hâkim veya savcı
 
-b) Milli Savunma Bakanlığınca, kukuk müşaviri veya muvazzaf subay,
+b) Milli Savunma Bakanlığınca, hukuk müşaviri veya muvazzaf subay,
 
 olarak atanır.
 
