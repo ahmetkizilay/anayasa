@@ -1117,67 +1117,51 @@ Cumhurbaşkanı, görevine başlarken Türkiye Büyük Millet Meclisi önünde a
 
 **D. Görev ve yetkileri (MADDE 104)**
 
-Cumhurbaşkanı Devletin başıdır. Bu sıfatla Türkiye Cumhuriyetini ve Türk Milletinin birliğini temsil eder; Anayasanın uygulanmasını, Devlet organlarının düzenli ve uyumlu çalışmasını gözetir.
+Cumhurbaşkanı Devletin başıdır.
+Yürütme yetkisi Cumhurbaşkanına aittir.
 
-Bu amaçlarla Anayasanın ilgili maddelerinde gösterilen şartlara uyarak yapacağı görev ve kullanacağı yetkiler şunlardır:
+Cumhurbaşkanı, Devlet başkanı sıfatıyla Türkiye Cumhuriyetini ve Türk Milletinin birliğini temsil eder; Anayasanın uygulanmasını, Devlet organlarının düzenli ve uyumlu çalışmasını temin eder.
 
-a) Yasama ile ilgili olanlar:
+Gerekli gördüğü takdirde, yasama yılının ilk günü Türkiye Büyük Millet Meclisinde açılış konuşmasını yapar.
 
-Gerekli gördüğü takdirde, yasama yılının ilk günü Türkiye Büyük Millet Meclisinde açılış konuşmasını yapmak,
+Ülkenin iç ve dış siyaseti hakkında Meclise mesaj verir.
 
-Türkiye Büyük Millet Meclisini gerektiğinde toplantıya çağırmak,
+Kanunları yayımlar.
 
-Kanunları yayımlamak,
+Kanunları tekrar görüşülmek üzere Türkiye Büyük Millet Meclisine geri gönderir.
 
-Kanunları tekrar görüşülmek üzere Türkiye Büyük Millet Meclisine geri göndermek,
+Kanunların, Türkiye Büyük Millet Meclisi İçtüzüğünün, tümünün veya belirli hükümlerinin Anayasaya şekil veya esas bakımından aykırı oldukları gerekçesi ile Anayasa Mahkemesinde iptal davası açar.
 
-Anayasa değişikliklerine ilişkin kanunları gerekli gördüğü takdirde halkoyuna sunmak,
+Cumhurbaşkanı yardımcıları ile bakanları atar ve görevlerine son verir.
 
-Kanunların, kanun hükmündeki kararnamelerin, Türkiye Büyük Millet Meclisi İçtüzüğünün, tümünün veya belirli hükümlerinin Anayasaya şekil veya esas bakımından aykırı oldukları gerekçesi ile Anayasa Mahkemesinde iptal davası açmak,
+Üst düzey kamu yöneticilerini atar ve görevlerine son verir.
 
-Türkiye Büyük Millet Meclisi seçimlerinin yenilenmesine karar vermek,
+Yabancı devletlere Türk Devletinin temsilcilerini gönderir, Türkiye Cumhuriyetine gönderilecek yabancı devlet temsilcilerini kabul eder.
 
-b) Yürütme alanına ilişkin olanlar:
+Milletlerarası andlaşma akdeder ve yayımlar.
 
-Başbakanı atamak ve istifasını kabul etmek,
+Anayasa değişikliklerine ilişkin kanunları gerekli gördüğü takdirde halkoyuna sunar.
 
-Başbakanın teklifi üzerine bakanları atamak ve görevlerine son vermek,
+Milli güvenlik politikalarını belirler ve gerekli tedbirleri alır.
 
-Gerekli gördüğü hallerde Bakanlar Kuruluna başkanlık etmek veya Bakanlar Kurulunu başkanlığı altında toplantıya çağırmak,
+Türk Silahlı Kuvvetlerinin Başkomutanlığını temsil eder.
 
-Yabancı devletlere Türk Devletinin temsilcilerini göndermek, Türkiye Cumhuriyetine gönderilecek yabancı devlet temsilcilerini kabul etmek,
+Türk Silahlı Kuvvetlerinin kullanılmasına karar verir.
 
-Milletlerarası andlaşmaları onaylamak ve yayımlamak,
+Sürekli hastalık, sakatlık ve kocama sebebi ile kişilerin cezalarını hafifletir veya kaldırır.
 
-Türkiye Büyük Millet Meclisi adına Türk Silahlı Kuvvetlerinin Başkomutanlığını temsil etmek,
+Cumhurbaşkanı, yürütme yetkisine ilişkin konularda Cumhurbaşkanlığı kararnamesi çıkarabilir.
+Anayasanın ikinci kısmının birinci ve ikinci bölümlerinde yer alan temel haklar, kişi hakları ve ödevleriyle dördüncü bölümde yer alan siyasi haklar ve ödevler Cumhurbaşkanlığı kararnamesi ile düzenlenemez.
+Anayasada münhasıran kanunla düzenlenmesi öngörülen konularda Cumhurbaşkanlığı kararnamesi çıkarılamaz.
+Kanunda açıkça düzenlenen konularda Cumhurbaşkanlığı kararnamesi çıkarılamaz.
+Cumhurbaşkanlığı kararnamesi ile kanunlarda farklı hükümler bulunması halinde kanun hükümleri uygulanır.
+Türkiye Büyük Millet Meclisinin aynı konuda kanun çıkarması durumunda Cumhurbaşkanlığı kararnamesi hükümsüz hale gelir.
 
-Türk Silahlı Kuvvetlerinin kullanılmasına karar vermek,
+Cumhurbaşkanı, kanunların uygulanmasını sağlamak üzere ve buna aykırı olmamak şartıyla, yönetmelikler çıkarabilir.
 
-Genelkurmay Başkanını atamak,
+Kararnameler ve yönetmelikler, yayımdan sonraki bir tarih belirlenmemişse, Resmî Gazetede yayımlandıkları gün yürürlüğe girerler.
 
-Millî Güvenlik Kurulunu toplantıya çağırmak,
-
-Millî Güvenlik Kuruluna Başkanlık etmek,
-
-Başkanlığında toplanan Bakanlar Kurulu kararıyla sıkıyönetim veya olağanüstü hal ilân etmek ve kanun hükmünde kararname çıkarmak,
-
-Kararnameleri imzalamak,
-
-Sürekli hastalık, sakatlık ve kocama sebebi ile belirli kişilerin cezalarını hafifletmek veya kaldırmak,
-
-Devlet Denetleme Kurulunun üyelerini ve Başkanını atamak,
-
-Devlet Denetleme Kuruluna inceleme, araştırma ve denetleme yaptırtmak,
-
-Yükseköğretim Kurulu üyelerini seçmek,
-
-Üniversite rektörlerini seçmek,
-
-c)  Yargı ile ilgili olanlar:
-
-Anayasa Mahkemesi üyelerini, Danıştay üyelerinin dörtte birini, Yargıtay Cumhuriyet Başsavcısı ve Yargıtay Cumhuriyet Başsavcıvekilini, Askerî Yargıtay üyelerini, Askerî Yüksek İdare Mahkemesi üyelerini, Hâkimler ve Savcılar Yüksek Kurulu üyelerini seçmek.
-
-Cumhurbaşkanı, ayrıca Anayasada ve kanunlarda verilen seçme ve atama görevleri ile diğer görevleri yerine getirir ve yetkileri kullanır.
+Cumhurbaşkanı ayrıca Anayasada ve kanunlarda verilen seçme ve atama görevleri ile diğer görevleri yerine getirir ve yetkileri kullanır.
 
 **E.  Sorumluluk ve sorumsuzluk hali (MADDE 105)**
 
