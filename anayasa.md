@@ -663,7 +663,23 @@ Hiçbir Türk, vatana bağlılıkla bağdaşmayan bir eylemde bulunmadıkça vat
 
 Vatandaşlıktan çıkarma ile ilgili karar ve işlemlere karşı yargı yolu kapatılamaz.
 
-**II.(MADDE 67)** `Mülga`
+**II. Seçme, seçilme ve siyasî faaliyette bulunma hakları (MADDE 67)**
+
+Vatandaşlar, kanunda gösterilen şartlara uygun olarak, seçme, seçilme ve bağımsız olarak veya bir siyasî parti içinde siyasî faaliyette bulunma ve halkoylamasına katılma hakkına sahiptir.
+
+Seçimler ve halkoylaması serbest, eşit, gizli, tek dereceli, genel oy, açık sayım ve döküm esaslarına göre, yargı yönetim ve denetimi altında yapılır.
+Ancak, yurt dışında bulunan Türk vatandaşlarının oy hakkını kullanabilmeleri amacıyla kanun, uygulanabilir tedbirleri belirler.
+
+Onsekiz yaşını dolduran her Türk vatandaşı seçme ve halkoylamasına katılma haklarına sahiptir.
+
+Bu hakların kullanılması kanunla düzenlenir.
+
+Silah altında bulunan er ve erbaşlar ile askerî öğrenciler, taksirli suçlardan hüküm giyenler hariç ceza infaz kurumlarında bulunan hükümlüler oy kullanamazlar.
+Ceza infaz kurumları ve tutukevlerinde oy kullanılması ve oyların sayım ve dökümünde seçim emniyeti açısından alınması gerekli tedbirler Yüksek Seçim Kurulu tarafından tespit edilir ve görevli hâkimin yerinde yönetim ve denetimi altında yapılır.
+
+Seçim kanunları, temsilde adalet ve yönetimde istikrar ilkelerini bağdaştıracak biçimde düzenlenir.
+
+Seçim kanunlarında yapılan değişiklikler, yürürlüğe girdiği tarihten itibaren bir yıl içinde yapılacak seçimlerde uygulanmaz.
 
 **III. Siyasî partilerle ilgili hükümler**
 
