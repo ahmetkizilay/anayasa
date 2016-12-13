@@ -791,9 +791,9 @@ Türkiye Büyük Millet Meclisi genel oyla seçilen altıyüz milletvekilinden o
 
 **B. Milletvekili seçilme yeterliliği (MADDE 76)**
 
-Yirmibeş yaşını dolduran her Türk milletvekili seçilebilir.
+Onsekiz yaşını dolduran her Türk milletvekili seçilebilir.
 
-En az ilkokul mezunu olmayanlar, kısıtlılar, yükümlü olduğu askerlik hizmetini yapmamış olanlar, kamu hizmetinden yasaklılar, taksirli suçlar hariç toplam bir yıl veya daha fazla hapis ile ağır hapis cezasına hüküm giymiş olanlar; zimmet, ihtilâs, irtikâp, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, inancı kötüye kullanma, dolanlı iflas gibi yüz kızartıcı suçlarla, kaçakçılık, resmî ihale ve alım satımlara fesat karıştırma, Devlet sırlarını açığa vurma, terör eylemlerine katılma ve bu gibi eylemleri tahrik ve teşvik suçlarından biriyle hüküm giymiş olanlar, affa uğramış olsalar bile milletvekili seçilemezler.
+En az ilkokul mezunu olmayanlar, kısıtlılar, askerlikle ilişiği olanlar, kamu hizmetinden yasaklılar, taksirli suçlar hariç toplam bir yıl veya daha fazla hapis ile ağır hapis cezasına hüküm giymiş olanlar; zimmet, ihtilâs, irtikâp, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, inancı kötüye kullanma, dolanlı iflas gibi yüz kızartıcı suçlarla, kaçakçılık, resmî ihale ve alım satımlara fesat karıştırma, Devlet sırlarını açığa vurma, terör eylemlerine katılma ve bu gibi eylemleri tahrik ve teşvik suçlarından biriyle hüküm giymiş olanlar, affa uğramış olsalar bile milletvekili seçilemezler.
 
 Hâkimler ve savcılar, yüksek yargı organları mensupları, yükseköğretim kurumlarındaki öğretim elemanları, Yükseköğretim Kurulu üyeleri, kamu kurum ve kuruluşlarının memur statüsündeki görevlileri ile yaptıkları hizmet bakımından işçi niteliği taşımayan diğer kamu görevlileri ve Silahlı Kuvvetler mensupları, görevlerinden çekilmedikçe, aday olamazlar ve milletvekili seçilemezler.
 
