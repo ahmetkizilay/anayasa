@@ -1828,20 +1828,29 @@ Uyuşmazlık Mahkemesinin kuruluşu, üyelerinin nitelikleri ve seçimleri ile i
 
 Diğer mahkemelerle, Anayasa Mahkemesi arasındaki görev uyuşmazlıklarında, Anayasa Mahkemesinin kararı esas alınır.
 
-**III. Hâkimler ve Savcılar Yüksek Kurulu (MADDE 159)**
+**III. Hâkimler ve Savcılar Kurulu (MADDE 159)**
 
-Hâkimler ve Savcılar Yüksek Kurulu, mahkemelerin bağımsızlığı ve hâkimlik teminatı esaslarına göre kurulur ve görev yapar.
+Hâkimler ve Savcılar Kurulu, mahkemelerin bağımsızlığı ve hâkimlik teminatı esaslarına göre kurulur ve görev yapar.
 
-Hâkimler ve Savcılar Yüksek Kurulu yirmiiki asıl ve oniki yedek üyeden oluşur; üç daire halinde çalışır.
+Hâkimler ve Savcılar Kurulu oniki üyeden oluşur; iki daire halinde çalışır.
 
 Kurulun Başkanı Adalet Bakanıdır.
-Adalet Bakanlığı Müsteşarı Kurulun tabiî üyesidir.
-Kurulun, dört asıl üyesi, nitelikleri kanunda belirtilen; yükseköğretim kurumlarının hukuk  dallarında görev yapan öğretim üyeleri ile avukatlar arasından Cumhurbaşkanınca, üç asıl ve üç yedek üyesi Yargıtay üyeleri arasından Yargıtay Genel Kurulunca, iki asıl ve iki yedek üyesi Danıştay üyeleri arasından Danıştay Genel Kurulunca, bir asıl ve bir yedek üyesi Türkiye Adalet Akademisi Genel Kurulunca kendi üyeleri arasından, yedi asıl ve dört yedek üyesi birinci sınıf olup, birinci sınıfa ayrılmayı gerektiren nitelikleri yitirmemiş adlî yargı hâkim ve savcıları arasından adlî yargı hâkim ve savcılarınca, üç asıl ve iki yedek üyesi birinci sınıf olup, birinci sınıfa ayrılmayı gerektiren nitelikleri yitirmemiş idarî yargı hâkim ve savcıları arasından idarî yargı hâkim ve savcılarınca, dört yıl için seçilir.
+Adalet Bakanının katılamadığı toplantılara Adalet Bakanı Müsteşarı katılır.
+Kurulun, iki üyesi, nitelikleri kanunda belirtilen yükseköğretim kurumlarının hukuk dallarında görev yapan öğretim üyeleri ile avukatlar arasından, iki üyesi birinci sınıf olup, birinci sınıfa ayrılmayı gerektiren nitelikleri yitirmemiş adlî yargı hâkim ve savcıları arasından, bir üyesi birinci sınıf olup, birinci sınıfa ayrılmayı gerektiren nitelikleri yitirmemiş idarî yargı hâkim ve savıları arasından Cumhurbaşkanınca; üç üyesi Yargıtay üyeleri bir üyesi Danıştay üyeleri, iki üyesi nitelikleri kanunda belirtilen yükseköğrenim kurumlarının hukuk dallarında görev yapan öğretim üyeleri ile avukatlar arasından Türkiye Büyük Millet Meclisi tarafından seçilir.
+Kurulun Türkiye Büyük Millet Meclisi tarafından seçilecek üyeliklerine ilişkin başvurular, Meclis Başkanlığına yapılır.
+Başkanlık başvuruları Anayasa ve Adalet Komisyonları Üyelerinden Kurulu Karma Komisyona gönderir.
+Komisyon her bir üyelik için üç adayı, üye tam sayısının üçte iki çoğunluğuyla belirler.
+Birinci oylamada aday belirleme işleminin sonuçlandırılamaması halinde ikinci oylamada üye tam sayısının beşte üç çoğunluğu aranır.
+Bu oylamada da aday belirlenemediği takdirde her bir üyelik için en çok oyu alan iki aday arasında ad çekme usulü ile aday belirleme işlemi tamamlanır.
+Türkiye Büyük Millet Meclisi, Komisyon tarafından belirlenen adaylar arasından, her bir üye için ayrı ayrı gizli oyla seçim yapar.
+Birinci oylamada üye tamsayısının üçte iki çoğunluğu; bu oylamada seçimin sonuçlandırılamaması halinde, ikinci oylamada üye tam sayıısının beşte üç çoğunluğu aranır.
+İkinci oylamada da üye seçilemediği takdirde en çok oyu alan iki aday arasında ad çekme usuü ile üye seçimi tamamlanır.
+
+Üyeler dört yıl için seçilir.
 Süresi biten üyeler yeniden seçilebilir.
 
-Kurul üyeliği seçimi, üyelerin görev süresinin dolmasından önceki altmış gün içinde yapılır.
-Cumhurbaşkanı tarafından seçilen üyelerin görev süreleri dolmadan Kurul üyeliğinin boşalması durumunda, boşalmayı takip eden altmış gün içinde, yeni üyelerin seçimi yapılır.
-Diğer üyeliklerin boşalması halinde, asıl üyenin yedeği tarafından kalan süre tamamlanır.
+Kurul üyeliği seçimi, üyelerin görev süresinin dolmasından önceki otuz gün içinde yapılır.
+Seçilen üyelerin görev süreleri dolmadan Kurul üyeliğinin boşalması durumunda, boşalmayı takip eden otuz gün içinde, yeni üyelerin seçimi yapılır.
 
 Yargıtay, Danıştay ve Türkiye Adalet Akademisi genel kurullarından seçilecek Kurul üyeliği için her üyenin, birinci sınıf adlî ve idarî yargı hâkim ve savcıları arasından seçilecek Kurul üyeliği için her hâkim ve savcının oy kullanacağı seçimlerde, en fazla oy alan adaylar sırasıyla asıl ve yedek üye seçilir.
 Bu seçimler her dönem için bir defada ve gizli oyla yapılır.
@@ -1855,7 +1864,7 @@ Başkan, yetkilerinden bir kısmını başkanvekiline devredebilir.
 
 Kurul, adlî ve idarî yargı hâkim ve savcılarını mesleğe kabul etme, atama ve nakletme, geçici yetki verme, yükselme ve birinci sınıfa ayırma, kadro dağıtma, meslekte kalmaları uygun görülmeyenler hakkında karar verme, disiplin cezası verme, görevden uzaklaştırma işlemlerini yapar; Adalet Bakanlığının, bir mahkemenin kaldırılması veya yargı çevresinin değiştirilmesi konusundaki tekliflerini karara bağlar; ayrıca, Anayasa ve kanunlarla verilen diğer görevleri yerine getirir.
 
-Hâkim ve savcıların görevlerini; kanun, tüzük, yönetmeliklere ve genelgelere (hâkimler için idarî nitelikteki genelgelere) uygun olarak yapıp yapmadıklarını denetleme; görevlerinden dolayı veya görevleri sırasında suç işleyip işlemediklerini, hal ve eylemlerinin sıfat ve görevleri icaplarına uyup uymadığını araştırma ve gerektiğinde haklarında inceleme ve soruşturma işlemleri, ilgili dairenin teklifi ve Hâkimler ve Savcılar Yüksek Kurulu Başkanının oluru ile Kurul müfettişlerine yaptırılır.
+Hâkim ve savcıların görevlerini; kanun, tüzük, yönetmeliklere ve genelgelere (hâkimler için idarî nitelikteki genelgelere) uygun olarak yapıp yapmadıklarını denetleme; görevlerinden dolayı veya görevleri sırasında suç işleyip işlemediklerini, hal ve eylemlerinin sıfat ve görevleri icaplarına uyup uymadığını araştırma ve gerektiğinde haklarında inceleme ve soruşturma işlemleri, ilgili dairenin teklifi ve Hâkimler ve Savcılar Kurulu Başkanının oluru ile Kurul müfettişlerine yaptırılır.
 Soruşturma ve inceleme işlemleri, hakkında soruşturma ve inceleme yapılacak olandan daha kıdemli hâkim veya savcı eliyle de yaptırılabilir.
 
 Kurulun meslekten çıkarma cezasına ilişkin olanlar dışındaki kararlarına karşı yargı mercilerine başvurulamaz.
