@@ -68,7 +68,7 @@ Bu yetki devredilemez.
 
 **VIII. Yürütme yetkisi ve görevi (MADDE 8)**
 
-Yürütme yetkisi ve görevi, Cumhurbaşkanı ve Bakanlar Kurulu tarafından, Anayasaya ve kanunlara uygun olarak kullanılır ve yerine getirilir.
+Yürütme yetkisi ve görevi, Cumhurbaşkanı tarafından, Anayasaya ve kanunlara uygun olarak kullanılır ve yerine getirilir.
 
 **IX. Yargı yetkisi (MADDE 9)**
 
@@ -123,7 +123,7 @@ Bu hükümlere aykırı faaliyette bulunanlar hakkında uygulanacak müeyyideler
 
 **IV. Temel hak ve hürriyetlerin kullanılmasının durdurulması (MADDE 15)**
 
-Savaş, seferberlik, sıkıyönetim veya olağanüstü hallerde, milletlerarası hukuktan doğan yükümlülükler ihlâl edilmemek kaydıyla, durumun gerektirdiği ölçüde temel hak ve hürriyetlerin kullanılması kısmen veya tamamen durdurulabilir veya bunlar için Anayasada öngörülen güvencelere aykırı tedbirler alınabilir.
+Savaş, seferberlik veya olağanüstü hallerde, milletlerarası hukuktan doğan yükümlülükler ihlâl edilmemek kaydıyla, durumun gerektirdiği ölçüde temel hak ve hürriyetlerin kullanılması kısmen veya tamamen durdurulabilir veya bunlar için Anayasada öngörülen güvencelere aykırı tedbirler alınabilir.
 
 Birinci fıkrada belirlenen durumlarda da, savaş hukukuna uygun fiiller sonucu meydana gelen ölümler dışında, kişinin yaşama hakkına, maddî ve manevî varlığının bütünlüğüne dokunulamaz; kimse din, vicdan, düşünce ve kanaatlerini açıklamaya zorlanamaz ve bunlardan dolayı suçlanamaz; suç ve cezalar geçmişe yürütülemez; suçluluğu mahkeme kararı ile saptanıncaya kadar kimse suçlu sayılamaz.
 
@@ -143,7 +143,7 @@ Tıbbî zorunluluklar ve kanunda yazılı haller dışında, kişinin vücut bü
 
 Kimseye işkence ve eziyet yapılamaz; kimse insan haysiyetiyle bağdaşmayan bir cezaya veya muameleye tâbi tutulamaz.
 
-Meşrû müdafaa hali, yakalama ve tutuklama kararlarının yerine getirilmesi, bir tutuklu veya hükümlünün kaçmasının önlenmesi, bir ayaklanma veya isyanın bastırılması, sıkıyönetim veya olağanüstü hallerde yetkili merciin verdiği emirlerin uygulanması sırasında silah kullanılmasına kanunun cevaz verdiği zorunlu durumlarda meydana gelen öldürme fiilleri, birinci fıkra hükmü dışındadır.
+Meşrû müdafaa hali, yakalama ve tutuklama kararlarının yerine getirilmesi, bir tutuklu veya hükümlünün kaçmasının önlenmesi, bir ayaklanma veya isyanın bastırılması veya olağanüstü hallerde yetkili merciin verdiği emirlerin uygulanması sırasında silah kullanılmasına kanunun cevaz verdiği zorunlu durumlarda meydana gelen öldürme fiilleri, birinci fıkra hükmü dışındadır.
 
 **II. Zorla çalıştırma yasağı (MADDE 18)**
 
@@ -166,7 +166,7 @@ Yakalanan veya tutuklanan kişilere, yakalama veya tutuklama sebepleri ve haklar
 
 Yakalanan veya tutuklanan kişi, tutulma yerine en yakın mahkemeye gönderilmesi için gerekli süre hariç en geç kırksekiz saat ve toplu olarak işlenen suçlarda en çok dört gün içinde hâkim önüne çıkarılır.
 Kimse, bu süreler geçtikten sonra hâkim kararı olmaksızın hürriyetinden yoksun bırakılamaz.
-Bu süreler olağanüstü hal, sıkıyönetim ve savaş hallerinde uzatılabilir.
+Bu süreler olağanüstü hal ve savaş hallerinde uzatılabilir.
 
 Kişinin yakalandığı veya tutuklandığı, yakınlarına derhal bildirilir.
 
@@ -663,23 +663,7 @@ Hiçbir Türk, vatana bağlılıkla bağdaşmayan bir eylemde bulunmadıkça vat
 
 Vatandaşlıktan çıkarma ile ilgili karar ve işlemlere karşı yargı yolu kapatılamaz.
 
-**II. Seçme, seçilme ve siyasî faaliyette bulunma hakları (MADDE 67)**
-
-Vatandaşlar, kanunda gösterilen şartlara uygun olarak, seçme, seçilme ve bağımsız olarak veya bir siyasî parti içinde siyasî faaliyette bulunma ve halkoylamasına katılma hakkına sahiptir.
-
-Seçimler ve halkoylaması serbest, eşit, gizli, tek dereceli, genel oy, açık sayım ve döküm esaslarına göre, yargı yönetim ve denetimi altında yapılır.
-Ancak, yurt dışında bulunan Türk vatandaşlarının oy hakkını kullanabilmeleri amacıyla kanun, uygulanabilir tedbirleri belirler.
-
-Onsekiz yaşını dolduran her Türk vatandaşı seçme ve halkoylamasına katılma haklarına sahiptir.
-
-Bu hakların kullanılması kanunla düzenlenir.
-
-Silah altında bulunan er ve erbaşlar ile askerî öğrenciler, taksirli suçlardan hüküm giyenler hariç ceza infaz kurumlarında bulunan hükümlüler oy kullanamazlar.
-Ceza infaz kurumları ve tutukevlerinde oy kullanılması ve oyların sayım ve dökümünde seçim emniyeti açısından alınması gerekli tedbirler Yüksek Seçim Kurulu tarafından tespit edilir ve görevli hâkimin yerinde yönetim ve denetimi altında yapılır.
-
-Seçim kanunları, temsilde adalet ve yönetimde istikrar ilkelerini bağdaştıracak biçimde düzenlenir.
-
-Seçim kanunlarında yapılan değişiklikler, yürürlüğe girdiği tarihten itibaren bir yıl içinde yapılacak seçimlerde uygulanmaz.
+**II.(MADDE 67)** `Mülga`
 
 **III. Siyasî partilerle ilgili hükümler**
 
@@ -759,7 +743,7 @@ Vergi yükünün adaletli ve dengeli dağılımı, maliye politikasının sosyal
 
 Vergi, resim, harç ve benzeri malî yükümlülükler kanunla konulur, değiştirilir veya kaldırılır.
 
-Vergi, resim, harç ve benzeri malî yükümlülüklerin muaflık, istisnalar ve indirimleriyle oranlarına ilişkin hükümlerinde kanunun belirttiği yukarı ve aşağı sınırlar içinde değişiklik yapmak yetkisi Bakanlar Kuruluna verilebilir.
+Vergi, resim, harç ve benzeri malî yükümlülüklerin muaflık, istisnalar ve indirimleriyle oranlarına ilişkin hükümlerinde kanunun belirttiği yukarı ve aşağı sınırlar içinde değişiklik yapmak yetkisi Cumhurbaşkanına verilebilir.
 
 **VII. Dilekçe, bilgi edinme ve kamu denetçisine başvurma hakkı (MADDE 74)**
 
@@ -852,7 +836,6 @@ Türkiye Büyük Millet Meclisi üyeleri, göreve başlarken aşağıdaki şekil
 Türkiye Büyük Millet Meclisi üyeleri, Devlet ve diğer kamu tüzelkişilerinde ve bunlara bağlı kuruluşlarda; Devletin veya diğer kamu tüzelkişilerinin doğrudan doğruya ya da dolaylı olarak katıldığı teşebbüs ve ortaklıklarda; özel gelir kaynakları ve özel imkânları kanunla sağlanmış kamu yararına çalışan derneklerin ve Devletten yardım sağlayan ve vergi muafiyeti olan vakıfların, kamu kurumu niteliğindeki meslek kuruluşları ile sendikalar ve bunların üst kuruluşlarının ve katıldıkları teşebbüs veya ortaklıkların yönetim ve denetim kurullarında görev alamazlar, vekili olamazlar, herhangi bir taahhüt işini doğrudan veya dolaylı olarak kabul edemezler, temsilcilik ve hakemlik yapamazlar.
 
 Türkiye Büyük Millet Meclisi üyeleri, yürütme organının teklif, inha, atama veya onamasına bağlı resmî veya özel herhangi bir işle görevlendirilemezler.
-Bir üyenin belli konuda ve altı ayı aşmamak üzere Bakanlar Kurulunca verilecek geçici bir görevi kabul etmesi, Meclisin kararına bağlıdır.
 
 Türkiye Büyük Millet Meclisi üyeliği ile bağdaşmayan diğer görev ve işler kanunla düzenlenir.
 
@@ -903,9 +886,9 @@ Türkiye Büyük Millet Meclisinin görev ve yetkileri, kanun koymak, değiştir
 
 **B. Kanunların teklif edilmesi ve görüşülmesi (MADDE 88)**
 
-Kanun teklif etmeye Bakanlar Kurulu ve milletvekilleri yetkilidir.
+Kanun teklif etmeye milletvekilleri yetkilidir.
 
-Kanun tasarı ve tekliflerinin Türkiye Büyük Millet Meclisinde görüşülme usul ve esasları İçtüzükle düzenlenir.
+Kanun tekliflerinin Türkiye Büyük Millet Meclisinde görüşülme usul ve esasları İçtüzükle düzenlenir.
 
 **C. Kanunların Cumhurbaşkanınca yayımlanması (MADDE 89)**
 
@@ -915,7 +898,7 @@ Yayımlanmasını kısmen veya tamamen uygun bulmadığı kanunları, bir daha g
 Cumhurbaşkanınca kısmen uygun bulunmama durumunda, Türkiye Büyük Millet Meclisi sadece uygun bulunmayan maddeleri görüşebilir.
 Bütçe kanunları bu hükme tâbi değildir.
 
-Türkiye Büyük Millet Meclisi, geri gönderilen kanunu aynen kabul ederse, kanun Cumhurbaşkanınca yayımlanır; Meclis, geri gönderilen kanunda yeni bir değişiklik yaparsa, Cumhurbaşkanı değiştirilen kanunu tekrar Meclise geri gönderebilir.
+Türkiye Büyük Millet Meclisi, geri gönderilen kanunu üye tamsayısının salt çoğunluğu ile aynen kabul ederse, kanun Cumhurbaşkanınca yayımlanır; Meclis, geri gönderilen kanunda yeni bir değişiklik yaparsa, Cumhurbaşkanı değiştirilen kanunu tekrar Meclise geri gönderebilir.
 
 Anayasa değişikliklerine ilişkin hükümler saklıdır.
 
@@ -933,28 +916,7 @@ Türk kanunlarına değişiklik getiren her türlü andlaşmaların yapılmasın
 Usulüne göre yürürlüğe konulmuş milletlerarası andlaşmalar kanun hükmündedir. Bunlar hakkında Anayasaya aykırılık iddiası ile Anayasa Mahkemesine başvurulamaz.
 Usulüne göre yürürlüğe konulmuş temel hak ve özgürlüklere ilişkin milletlerarası andlaşmalarla kanunların aynı konuda farklı hükümler içermesi nedeniyle çıkabilecek uyuşmazlıklarda milletlerarası andlaşma hükümleri esas alınır.
 
-**E. Kanun hükmünde kararname çıkarma yetkisi verme (MADDE 91)**
-
-Türkiye Büyük Millet Meclisi, Bakanlar Kuruluna kanun hükmünde kararname çıkarma yetkisi verebilir.
-Ancak sıkıyönetim ve olağanüstü haller saklı kalmak üzere, Anayasanın ikinci kısmının birinci ve ikinci bölümlerinde yer alan temel haklar, kişi hakları ve ödevleri ile dördüncü bölümünde yer alan siyasî haklar ve ödevler kanun hükmünde kararnamelerle düzenlenemez.
-
-Yetki kanunu, çıkarılacak kanun hükmünde kararnamenin, amacını, kapsamını, ilkelerini, kullanma süresini ve süresi içinde birden fazla kararname çıkarılıp çıkarılamayacağını gösterir.
-
-Bakanlar Kurulunun istifası, düşürülmesi veya yasama döneminin bitmesi, belli süre için verilmiş olan yetkinin sona ermesine sebep olmaz.
-
-Kanun hükmünde kararnamenin, Türkiye Büyük Millet Meclisi tarafından süre bitiminden önce onaylanması sırasında, yetkinin son bulduğu veya süre bitimine kadar devam ettiği de belirtilir.
-
-Sıkıyönetim ve olağanüstü hallerde, Cumhurbaşkanının Başkanlığında toplanan Bakanlar Kurulunun kanun hükmünde kararname çıkarmasına ilişkin hükümler saklıdır.
-
-Kanun hükmünde kararnameler, Resmî Gazetede yayımlandıkları gün yürürlüğe girerler.
-Ancak, kararnamede yürürlük tarihi olarak daha sonraki bir tarih de gösterilebilir.
-
-Kararnameler, Resmî Gazetede yayımlandıkları gün Türkiye Büyük Millet Meclisine sunulur.
-
-Yetki kanunları ve bunlara dayanan kanun hükmünde kararnameler, Türkiye Büyük Millet Meclisi komisyonları ve Genel Kurulunda öncelikle ve ivedilikle görüşülür.
-
-Yayımlandıkları gün Türkiye Büyük Millet Meclisine sunulmayan kararnameler bu tarihte, Türkiye Büyük Millet Meclisince reddedilen kararnameler bu kararın Resmî Gazetede yayımlandığı tarihte, yürürlükten kalkar.
-Değiştirilerek kabul edilen kararnamelerin değiştirilmiş hükümleri, bu değişikliklerin Resmî Gazetede yayımlandığı gün yürürlüğe girer.
+**E. (MADDE 91)** `Mülga`
 
 **F. Savaş hali ilânı ve silahlı kuvvet kullanılmasına izin verme (MADDE 92)**
 
@@ -968,7 +930,7 @@ Türkiye Büyük Millet Meclisi tatilde veya ara vermede iken ülkenin ani bir s
 
 Türkiye Büyük Millet Meclisi, her yıl Ekim ayının ilk günü kendiliğinden toplanır.
 
-Meclis, bir yasama yılında en çok üç ay tatil yapabilir; ara verme veya tatil sırasında, doğrudan doğruya veya Bakanlar Kurulunun istemi üzerine, Cumhurbaşkanınca toplantıya çağrılır.
+Meclis, bir yasama yılında en çok üç ay tatil yapabilir; ara verme veya tatil sırasında, Cumhurbaşkanınca toplantıya çağrılır.
 
 Meclis Başkanı da doğrudan doğruya veya üyelerin beşte birinin yazılı istemi üzerine, Meclisi toplantıya çağırır.
 
@@ -1008,9 +970,6 @@ Emniyet ve diğer kolluk hizmetleri için yeteri kadar kuvvet ilgili makamlarca 
 Türkiye Büyük Millet Meclisi, yapacağı seçimler dahil bütün işlerinde üye tamsayısının en az üçte biri ile toplanır.
 Türkiye Büyük Millet Meclisi, Anayasada başkaca bir hüküm yoksa toplantıya katılanların salt çoğunluğu ile karar verir; ancak karar yeter sayısı hiçbir şekilde üye tamsayısının dörtte birinin bir fazlasından az olamaz.
 
-Bakanlar Kurulu üyeleri, Türkiye Büyük Millet Meclisinin katılamadıkları oturumlarında, kendileri yerine oy kullanmak üzere bir bakana yetki verebilirler.
-Ancak bir bakan kendi oyu ile birlikte en çok iki oy kullanabilir.
-
 **E. Görüşmelerin açıklığı ve yayımlanması (MADDE 97)**
 
 Türkiye Büyük Millet Meclisi Genel Kurulundaki görüşmeler açıktır ve tutanak dergisinde tam olarak yayımlanır.
@@ -1035,35 +994,9 @@ Yazılı soru; yazılı olarak en geç onbeş gün içerisinde cevaplanmak üzer
 
 Meclis araştırması, genel görüşme ve yazılı soru önergelerin verilme şekli, içeriği ve kapsamı ile araştırma usûlleri Meclis İçtüzüğü ile düzenlenir.
 
-**B. Gensoru (MADDE 99)**
+**B. (MADDE 99)** `Mülga`
 
-Gensoru önergesi, bir siyasî parti grubu adına veya en az yirmi milletvekilinin imzasıyla verilir.
-
-Gensoru önergesi, verilişinden sonraki üç gün içinde bastırılarak üyelere dağıtılır; dağıtılmasından itibaren on gün içinde gündeme alınıp alınmayacağı görüşülür.
-Bu görüşmede, ancak önerge sahiplerinden biri, siyasî parti grupları adına birer milletvekili, Bakanlar Kurulu adına Başbakan veya bir bakan konuşabilir.
-
-Gündeme alma kararıyla birlikte, gensorunun görüşülme günü de belli edilir; ancak gensorunun görüşülmesi, gündeme alma kararının verildiği tarihten başlayarak iki gün geçmedikçe yapılamaz ve yedi günden sonraya bırakılamaz.
-
-Gensoru görüşmeleri sırasında üyelerin veya grupların verecekleri gerekçeli güvensizlik önergeleri veya Bakanlar Kurulunun güven isteği, bir tam gün geçtikten sonra oylanır.
-
-Bakanlar Kurulunun veya bir bakanın düşürülebilmesi, üye tamsayısının salt çoğunluğuyla olur; oylamada yalnız güvensizlik oyları sayılır.
-
-Meclis çalışmalarının dengeli olarak yürütülmesi amacına ve yukarıdaki ilkelere uygun olmak kaydıyla gensoru ile ilgili diğer hususlar İçtüzükte belirlenir.
-
-**C. Meclis soruşturması (MADDE 100)**
-
-Başbakan veya bakanlar hakkında, Türkiye Büyük Millet Meclisi üye tamsayısının en az onda birinin vereceği önerge ile, soruşturma açılması istenebilir.
-Meclis, bu istemi en geç bir ay içinde görüşür ve gizli oyla karara bağlar.
-
-Soruşturma açılmasına karar verilmesi halinde, Meclisteki siyasî partilerin, güçleri oranında komisyona verebilecekleri üye sayısının üç katı olarak gösterecekleri adaylar arasından her parti için ayrı ayrı ad çekme suretiyle kurulacak onbeş kişilik bir komisyon tarafından soruşturma yapılır.
-Komisyon, soruşturma sonucunu belirten raporunu iki ay içinde Meclise sunar.
-Soruşturmanın bu sürede bitirilememesi halinde, komisyona iki aylık yeni ve kesin bir süre verilir.
-Bu süre içinde raporun Türkiye Büyük Millet Meclisi Başkanlığına teslimi zorunludur.
-
-Rapor Başkanlığa verildiği tarihten itibaren on gün içinde dağıtılır, dağıtımından itibaren on gün içinde görüşülür ve gerek görüldüğü takdirde ilgilinin Yüce Divana sevkine karar verilir.
-Yüce Divana sevk kararı ancak üye tamsayısının salt çoğunluğunun gizli oyuyla alınır.
-
-Meclisteki siyasî parti gruplarında, Meclis soruşturması ile ilgili görüşme yapılamaz ve karar alınamaz.
+**C.(MADDE 100)** `Mülga`
 
 ### İKİNCİ BÖLÜM
 **Yürütme**
@@ -1093,21 +1026,7 @@ Seçimlerin tamamlanamaması halinde mevcut Cumhurbaşkanı yenisi seçilinceye 
 
 Cumhurbaşkanlığı seçimlerine ilişkin diğer usûl ve esaslar kanunla düzenlenir.
 
-**B. Seçimi (MADDE 102)**
-
-Cumhurbaşkanı seçimi, Cumhurbaşkanının görev süresinin dolmasından önceki altmış gün içinde; makamın herhangi bir sebeple boşalması halinde ise boşalmayı takip eden altmış gün içinde tamamlanır.
-
-Genel oyla yapılacak seçimde, geçerli oyların salt çoğunluğunu alan aday Cumhurbaşkanı seçilmiş olur.
-İlk oylamada bu çoğunluk sağlanamazsa, bu oylamayı izleyen ikinci pazar günü ikinci oylama yapılır.
-Bu oylamaya, ilk oylamada en çok oy almış bulunan iki aday katılır ve geçerli oyların çoğunluğunu alan aday Cumhurbaşkanı seçilmiş olur.
-
-İkinci oylamaya katılmaya hak kazanan adaylardan birinin ölümü veya seçilme yeterliğini kaybetmesi halinde; ikinci oylama, boşalan adaylığın birinci oylamadaki sıraya göre ikame edilmesi suretiyle yapılır.
-İkinci oylamaya tek adayın kalması halinde, bu oylama referandum şeklinde yapılır.
-Aday, geçerli oyların çoğunluğunu aldığı takdirde Cumhurbaşkanı seçilmiş olur.
-
-Cumhurbaşkanı göreve başlayıncaya kadar görev süresi dolan Cumhurbaşkanının görevi devam eder.
-
-Cumhurbaşkanlığı seçimine ilişkin usûl ve esaslar kanunla düzenlenir.
+**B.(MADDE 102)** `Mülga`
 
 **C. Andiçmesi (MADDE 103)**
 
@@ -1218,91 +1137,33 @@ Cumhurbaşkanı yardımcıları ve bakanlar, göreviyle ilgili olmayan suçlarda
 
 Bakanlığın kurulması, kaldırılması, görevleri ve yetkileri ile teşkilât yapısı Cumhurbaşkanlığı kararnamesi ile düzenlenir.
 
-**G. Cumhurbaşkanı Genel Sekreterliği (MADDE 107)**
-
-Cumhurbaşkanlığı Genel Sekreterliğinin kuruluşu, teşkilat ve çalışma esasları, personel atama işlemleri Cumhurbaşkanlığı kararnamesi ile düzenlenir.
+**G. (MADDE 107)** `Mülga`
 
 **H. Devlet Denetleme Kurulu (MADDE 108)**
 
-İdarenin hukuka uygunluğunun, düzenli ve verimli şekilde yürütülmesinin ve geliştirilmesinin sağlanması amacıyla, Cumhurbaşkanlığına bağlı olarak kurulan Devlet Denetleme Kurulu, Cumhurbaşkanının isteği üzerine, tüm kamu kurum ve kuruluşlarında ve sermayesinin yarısından fazlasına bu kurum ve kuruluşların katıldığı her türlü kuruluşta, kamu kurumu niteliğinde olan meslek kuruluşlarında, her düzeydeki işçi ve işveren meslek kuruluşlarında, kamuya yararlı derneklerle vakıflarda, her türlü inceleme, araştırma ve denetlemeleri yapar.
+İdarenin hukuka uygunluğunun, düzenli ve verimli şekilde yürütülmesinin ve geliştirilmesinin sağlanması amacıyla, Cumhurbaşkanlığına bağlı olarak kurulan Devlet Denetleme Kurulu, Cumhurbaşkanının isteği üzerine, tüm kamu kurum ve kuruluşlarında ve sermayesinin yarısından fazlasına bu kurum ve kuruluşların katıldığı her türlü kuruluşta, kamu kurumu niteliğinde olan meslek kuruluşlarında, her düzeydeki işçi ve işveren meslek kuruluşlarında, kamuya yararlı derneklerle vakıflarda, her türlü idari soruşturma, inceleme, araştırma ve denetlemeleri yapar.
 
-Silahlı Kuvvetler ve yargı organları, Devlet Denetleme Kurulunun görev alanı dışındadır.
+Yargı organları, Devlet Denetleme Kurulunun görev alanı dışındadır.
 
-Devlet Denetleme Kurulunun üyeleri ve üyeleri içinden Başkanı, kanunda belirlenen nitelikteki kişiler arasından, Cumhurbaşkanınca atanır.
+Devlet Denetleme Kurulunun Başkan ve üyeleri Cumhurbaşkanınca atanır.
 
-Devlet Denetleme Kurulunun işleyişi, üyelerinin görev süresi ve diğer özlük işleri, kanunla düzenlenir.
+Devlet Denetleme Kurulunun işleyişi, üyelerinin görev süresi ve diğer özlük işleri, Cumhurbaşkanu kararnamesi ile düzenlenir.
 
 **II. Bakanlar Kurulu**
 
-**A. Kuruluş (MADDE 109)**
+**A.(MADDE 109)** `Mülga`
 
-Bakanlar Kurulu, Başbakan ve bakanlardan kurulur.
+**B.(MADDE 110)** `Mülga`
 
-Başbakan, Cumhurbaşkanınca, Türkiye Büyük Millet Meclisi üyeleri arasından atanır.
+**C.(MADDE 111)** `Mülga`
 
-Bakanlar, Türkiye Büyük Millet Meclisi üyeleri veya milletvekili seçilme yeterliğine sahip olanlar arasından Başbakanca seçilir ve Cumhurbaşkanınca atanır; gerektiğinde Başbakanın önerisi üzerine Cumhurbaşkanınca görevlerine son verilir.
+**D.(MADDE 112)** `Mülga`
 
-**B. Göreve başlama ve güvenoyu (MADDE 110)**
+**E.(MADDE 113)** `Mülga`
 
-Bakanlar Kurulunun listesi tam olarak Türkiye Büyük Millet Meclisine sunulur. Türkiye Büyük Millet Meclisi tatilde ise toplantıya çağrılır.
+**F.(MADDE 114)** `Mülga`
 
-Bakanlar Kurulunun programı, kuruluşundan en geç bir hafta içinde Başbakan veya bir bakan tarafından Türkiye Büyük Millet Meclisinde okunur ve güvenoyuna başvurulur.
-Güvenoyu için görüşmeler, programın okunmasından iki tam gün geçtikten sonra başlar ve görüşmelerin bitiminden bir tam gün geçtikten sonra oylama yapılır.
-
-**C.  Görev sırasında güvenoyu (MADDE 111)**
-
-Başbakan, gerekli görürse, Bakanlar Kurulunda görüştükten sonra, Türkiye Büyük Millet Meclisinden güven isteyebilir.
-
-Güven istemi, Türkiye Büyük Millet Meclisine bildirilmesinden bir tam gün geçmedikçe görüşülemez ve görüşmelerin bitiminden bir tam gün geçmedikçe oya konulamaz.
-
-Güven istemi, ancak üye tamsayısının salt çoğunluğuyla reddedilebilir.
-
-**D. Görev ve siyasî sorumluluk (MADDE 112)**
-
-Başbakan, Bakanlar Kurulunun başkanı olarak, Bakanlıklar arasında işbirliğini sağlar ve hükümetin genel siyasetinin yürütülmesini gözetir. Bakanlar Kurulu, bu siyasetin yürütülmesinden birlikte sorumludur.
-
-Her bakan, Başbakana karşı sorumlu olup ayrıca kendi yetkisi içindeki işlerden ve emri altındakilerin eylem ve işlemlerinden de sorumludur.
-
-Başbakan, bakanların görevlerinin Anayasa ve kanunlara uygun olarak yerine getirilmesini gözetmek ve düzeltici önlemleri almakla yükümlüdür.
-
-Bakanlar Kurulu üyelerinden milletvekili olmayanlar; 81 inci maddede yazılı şekilde Millet Meclisi önünde andiçerler ve bakan sıfatını taşıdıkları sürece milletvekillerinin tâbi oldukları kayıt ve şartlara uyarlar ve yasama dokunulmazlığına sahip bulunurlar.
-Bunlar Türkiye Büyük Millet Meclisi üyeleri gibi ödenek ve yolluk alırlar.
-
-**E. Bakanlıkların kurulması ve bakanlar (MADDE 113)**
-
-Bakanlıkların kurulması, kaldırılması, görevleri, yetkileri ve teşkilatı kanunla düzenlenir.
-
-Açık olan bakanlıklarla izinli veya özürlü olan bir bakana, diğer bir bakan geçici olarak vekillik eder.
-Ancak, bir bakan birden fazlasına vekillik edemez.
-
-Türkiye Büyük Millet Meclisi kararı ile Yüce Divana verilen bir bakan bakanlıktan düşer.
-Başbakanın Yüce Divana sevki halinde hükümet istifa etmiş sayılır.
-
-Herhangi bir sebeple boşalan bakanlığa en geç onbeş gün içinde atama yapılır.
-
-**F. Seçimlerde geçici Bakanlar Kurulu (MADDE 114)**
-
-Türkiye Büyük Millet Meclisi genel seçimlerinden önce, Adalet, İçişleri ve Ulaştırma bakanları çekilir.
-Seçimin başlangıç tarihinden üç gün önce; seçim dönemi bitmeden seçimin yenilenmesine karar verilmesi halinde ise, bu karardan başlayarak beş gün içinde, bu bakanlıklara Türkiye Büyük Millet Meclisi içinden veya dışarıdan bağımsızlar Başbakanca atanır.
-
-116 ncı madde gereğince seçimlerin yenilenmesine karar verildiğinde Bakanlar Kurulu çekilir ve Cumhurbaşkanı geçici Bakanlar Kurulunu kurmak üzere bir Başbakan atar.
-
-Geçici Bakanlar Kuruluna, Adalet, İçişleri ve Ulaştırma bakanları Türkiye Büyük Millet Meclisindeki veya Meclis dışındaki bağımsızlardan olmak üzere, siyasî parti gruplarından, oranlarına göre üye alınır.
-
-Siyasî parti gruplarından alınacak üye sayısını Türkiye Büyük Millet Meclisi Başkanı tespit ederek Başbakana bildirir.
-Teklif edilen bakanlığı kabul etmeyen veya sonradan çekilen partililer yerine, Türkiye Büyük Millet Meclisi içinden veya dışarıdan bağımsızlar atanır.
-
-Geçici Bakanlar Kurulu, yenilenme kararının Resmî Gazetede ilânından itibaren beş gün içinde kurulur.
-
-Geçici Bakanlar Kurulu için güvenoyuna başvurulmaz.
-
-Geçici Bakanlar Kurulu seçim süresince ve yeni Meclis toplanıncaya kadar vazife görür.
-
-**G. Tüzükler (MADDE 115)**
-
-Bakanlar Kurulu, kanunun uygulanmasını göstermek veya emrettiği işleri belirtmek üzere, kanunlara aykırı olmamak ve Danıştayın incelemesinden geçirilmek şartıyla tüzükler çıkarabilir.
-
-Tüzükler, Cumhurbaşkanınca imzalanır ve kanunlar gibi yayımlanır.
+**G. (MADDE 115)** `Mülga`
 
 **H. Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimlerinin (MADDE 116)**
 
@@ -1323,28 +1184,26 @@ Bu şekilde seçilen Meclis ve Cumhurbaşkanının görev süreleri de beş yıl
 
 Başkomutanlık, Türkiye Büyük Millet Meclisinin manevî varlığından ayrılamaz ve Cumhurbaşkanı tarafından temsil olunur.
 
-Millî güvenliğin sağlanmasından ve Silahlı Kuvvetlerin yurt savunmasına hazırlanmasından, Türkiye Büyük Millet Meclisine karşı, Bakanlar Kurulu sorumludur.
+Millî güvenliğin sağlanmasından ve Silahlı Kuvvetlerin yurt savunmasına hazırlanmasından, Türkiye Büyük Millet Meclisine karşı, Cumhurbaşkanı sorumludur.
 
 Genelkurmay Başkanı; Silahlı Kuvvetlerin komutanı olup, savaşta Başkomutanlık görevlerini Cumhurbaşkanlığı namına yerine getirir.
 
-Genelkurmay Başkanı, Bakanlar Kurulunun teklifi üzerine, Cumhurbaşkanınca atanır; görev ve yetkileri kanunla düzenlenir. Genelkurmay Başkanı, bu görev ve yetkilerinden dolayı Başbakana karşı sorumludur.
-
-Millî Savunma Bakanlığının, Genelkurmay Başkanlığı ve Kuvvet Komutanlıkları ile görev ilişkileri ve yetki alanı kanunla düzenlenir.
+Genelkurmay Başkanı, Cumhurbaşkanınca atanır; görev ve yetkileri kanunla düzenlenir. Genelkurmay Başkanı, bu görev ve yetkilerinden dolayı Cumhurbaşkanına karşı sorumludur.
 
 **2. Millî Güvenlik Kurulu (MADDE 118)**
 
-Millî Güvenlik Kurulu; Cumhurbaşkanının başkanlığında, Başbakan, Genelkurmay Başkanı, Başbakan yardımcıları, Adalet, Millî Savunma, İçişleri, Dışişleri Bakanları, Kara, Deniz ve Hava Kuvvetleri Komutanları ve Jandarma Genel Komutanından kurulur.
+Millî Güvenlik Kurulu; Cumhurbaşkanının başkanlığında, Cumhurbaşkanı yardımcıları, Adalet, Millî Savunma, İçişleri, Dışişleri Bakanları, Genelkurmay Başkanı, Kara, Deniz ve Hava Kuvvetleri komutanlarından kurulur.
 
 Gündemin özelliğine göre Kurul toplantılarına ilgili bakan ve kişiler çağrılıp görüşleri alınabilir.
 
-Millî Güvenlik Kurulu; Devletin millî güvenlik siyasetinin tayini, tespiti ve uygulanması ile ilgili alınan tavsiye kararları ve gerekli koordinasyonun sağlanması konusundaki görüşlerini Bakanlar Kuruluna bildirir.
-Kurulun, Devletin varlığı ve bağımsızlığı, ülkenin bütünlüğü ve bölünmezliği, toplumun huzur ve güvenliğinin korunması hususunda alınmasını zorunlu gördüğü tedbirlere ait kararlar Bakanlar Kurulunca değerlendirilir.
+Millî Güvenlik Kurulu; Devletin millî güvenlik siyasetinin tayini, tespiti ve uygulanması ile ilgili alınan tavsiye kararları ve gerekli koordinasyonun sağlanması konusundaki görüşlerini Cumhurbaşkanına bildirir.
+Kurulun, Devletin varlığı ve bağımsızlığı, ülkenin bütünlüğü ve bölünmezliği, toplumun huzur ve güvenliğinin korunması hususunda alınmasını zorunlu gördüğü tedbirlere ait kararlar Cumhurbaşkanınca değerlendirilir.
 
-Millî Güvenlik Kurulunun gündemi; Başbakan ve Genelkurmay Başkanının önerileri dikkate alınarak Cumhurbaşkanınca düzenlenir.
+Millî Güvenlik Kurulunun gündemi; Cumhurbaşkanı yardımcıları ve Genelkurmay Başkanının önerileri dikkate alınarak Cumhurbaşkanınca düzenlenir.
 
-Cumhurbaşkanı katılamadığı zamanlar Millî Güvenlik Kurulu Başbakanın başkanlığında toplanır.
+Cumhurbaşkanı katılamadığı zamanlar Millî Güvenlik Kurulu Cumhurbaşkanı yardımcısının başkanlığında toplanır.
 
-Millî Güvenlik Kurulu Genel Sekreterliğinin teşkilatı ve görevleri kanunla düzenlenir.
+Millî Güvenlik Kurulu Genel Sekreterliğinin teşkilatı ve görevleri Cumhurbaşkanlığı kararnamesi ile düzenlenir.
 
 **III. Olağanüstü hal yönetimi (MADDE 119)**
 
@@ -1365,39 +1224,11 @@ Kanun hükmündeki kararnameler Resmi Gazetede yayınlanır, aynı gün Meclis o
 Savaş ve mücbir sebeplerle Türkiye Büyük Millet Meclisinin toplanamaması hariç olmak üzere; olağanüstü hal sırasında çıkarılan Cumhurbaşkanlığı kararnameleri bir ay içinde Türkiye Büyük Mİllet Meclisinde görüşülür ve karar bağlanır.
 Aksi halde olağanüstü hallerde çıkarılan Cumhurbaşkanlığı kararnamesi kendiliğinden yürürlükten kalkar.
 
-**2. Şiddet olaylarının yaygınlaşması ve kamu düzeninin ciddî şekilde bozulması sebepleriyle olağanüstü hal ilânı (MADDE 120)**
+**2.(MADDE 120)** `Mülga`
 
-Anayasa ile kurulan hür demokrasi düzenini veya temel hak ve hürriyetleri ortadan kaldırmaya yönelik yaygın şiddet hareketlerine ait ciddî belirtilerin ortaya çıkması veya şiddet olayları sebebiyle kamu düzeninin ciddî şekilde bozulması hallerinde, Cumhurbaşkanı başkanlığında toplanan Bakanlar Kurulu, Milli Güvenlik Kurulunun da görüşünü aldıktan sonra yurdun bir veya birden fazla bölgesinde veya bütününde, süresi altı ayı geçmemek üzere olağanüstü hal ilân edebilir.
+**3.(MADDE 121)** `Mülga`
 
-**3. Olağanüstü hallerle ilgili düzenleme (MADDE 121)**
-
-Anayasanın 119 ve 120 nci maddeleri uyarınca olağanüstü hal ilânına karar verilmesi durumunda, bu karar Resmî Gazetede yayımlanır ve hemen Türkiye Büyük Millet Meclisinin onayına sunulur.
-Türkiye Büyük Millet Meclisi tatilde ise derhal toplantıya çağırılır.
-Meclis, olağanüstü hal süresini değiştirebilir, Bakanlar Kurulunun istemi üzerine, her defasında dört ayı geçmemek üzere, süreyi uzatabilir veya olağanüstü hali kaldırabilir.
-
-119 uncu madde uyarınca ilân edilen olağanüstü hallerde vatandaşlar için getirilecek para, mal ve çalışma yükümlülükleri ile olağanüstü hallerin her türü için ayrı ayrı geçerli olmak üzere, Anayasanın 15 inci maddesindeki ilkeler doğrultusunda temel hak ve hürriyetlerin nasıl sınırlanacağı veya nasıl durdurulacağı, halin gerektirdiği tedbirlerin nasıl ve ne suretle alınacağı, kamu hizmeti görevlilerine ne gibi yetkiler verileceği, görevlilerin durumlarında ne gibi değişiklikler yapılacağı ve olağanüstü yönetim usulleri, Olağanüstü Hal Kanununda düzenlenir.
-
-Olağanüstü hal süresince, Cumhurbaşkanının başkanlığında toplanan Bakanlar Kurulu, olağanüstü halin gerekli kıldığı konularda, kanun hükmünde kararnameler çıkarabilir.
-Bu kararnameler, Resmî Gazetede yayımlanır ve aynı gün Türkiye Büyük Millet Meclisinin onayına sunulur; bunların Meclisce onaylanmasına ilişkin süre ve usul, İçtüzükte belirlenir.
-
-**B. Sıkıyönetim, seferberlik ve savaş hali (MADDE 122)**
-
-Anayasanın tanıdığı hür demokrasi düzenini veya temel hak ve hürriyetleri ortadan kaldırmaya yönelen ve olağanüstü hal ilânını gerektiren hallerden daha vahim şiddet hareketlerinin yaygınlaşması veya savaş hali, savaşı gerektirecek bir durumun başgöstermesi, ayaklanma olması veya vatan veya Cumhuriyete karşı kuvvetli ve eylemli bir kalkışmanın veya ülkenin ve milletin bölünmezliğini içten veya dıştan tehlikeye düşüren şiddet hareketlerinin yaygınlaşması sebepleriyle, Cumhurbaşkanı başkanlığında toplanan Bakanlar Kurulu, Millî Güvenlik Kurulunun  da görüşünü aldıktan sonra, süresi altı ayı aşmamak üzere yurdun bir veya birden fazla bölgesinde veya bütününde sıkıyönetim ilân edebilir.
-Bu karar, derhal Resmî Gazetede yayımlanır ve aynı gün Türkiye Büyük Millet Meclisinin onayına sunulur.
-Türkiye Büyük Millet Meclisi toplantı halinde değilse hemen toplantıya çağırılır.
-Türkiye Büyük Millet Meclisi gerekli gördüğü takdirde sıkıyönetim süresini kısaltabilir, uzatabilir veya sıkıyönetimi kaldırabilir.
-
-Sıkıyönetim süresinde, Cumhurbaşkanının başkanlığında toplanan Bakanlar Kurulu sıkıyönetim halinin gerekli kıldığı konularda kanun hükmünde kararname çıkarabilir.
-
-Bu kararnameler Resmî Gazetede yayımlanır ve aynı gün Türkiye Büyük Millet Meclisinin onayına sunulur.
-Bunların Meclisce onaylanmasına ilişkin süre ve usul İçtüzükte belirlenir.
-
-Sıkıyönetimin her defasında dört ayı aşmamak üzere uzatılması, Türkiye Büyük Millet Meclisinin kararına bağlıdır.
-Savaş hallerinde bu dört aylık süre aranmaz.
-
-Sıkıyönetim, seferberlik ve savaş hallerinde hangi hükümlerin uygulanacağı ve işlemlerin nasıl yürütüleceği, idare ile olan ilişkileri, hürriyetlerin nasıl kısıtlanacağı veya durdurulacağı ve savaş veya savaşı gerektirecek bir durumun başgöstermesi halinde vatandaşlar için getirilecek yükümlülükler kanunla düzenlenir.
-
-Sıkıyönetim komutanları Genelkurmay Başkanlığına bağlı olarak görev yaparlar.
+**B.(MADDE 122)** `Mülga`
 
 **IV. İdare**
 
@@ -1415,7 +1246,7 @@ Kamu tüzelkişiliği, kanunla veya Cumhurbaşkanlığı kararnamesiyle kurulur.
 
 **2. Yönetmelikler (MADDE 124)**
 
-Başbakanlık, bakanlıklar ve kamu tüzelkişileri, kendi görev alanlarını ilgilendiren kanunların ve tüzüklerin uygulanmasını sağlamak üzere ve bunlara aykırı olmamak şartıyla, yönetmelikler çıkarabilirler.
+Cumhurbaşkanı, bakanlıklar ve kamu tüzelkişileri, kendi görev alanlarını ilgilendiren kanunların ve Cumhurbaşkanı kararnamelerinin uygulanmasını sağlamak üzere ve bunlara aykırı olmamak şartıyla, yönetmelikler çıkarabilirler.
 
 Hangi yönetmeliklerin Resmî Gazetede yayımlanacağı kanunda belirtilir.
 
@@ -1425,9 +1256,6 @@ Hangi yönetmeliklerin Resmî Gazetede yayımlanacağı kanunda belirtilir.
 Kamu hizmetleri ile ilgili imtiyaz şartlaşma ve sözleşmelerinde bunlardan doğan uyuşmazlıkların millî veya milletlerarası tahkim yoluyla çözülmesi öngörülebilir.
 Milletlerarası tahkime ancak yabancılık unsuru taşıyan uyuşmazlıklar için gidilebilir.
 
-Cumhurbaşkanının tek başına yapacağı işlemler ile Yüksek Askerî Şûranın kararları yargı denetimi dışındadır.
-Ancak, Yüksek Askerî Şûranın terfi işlemleri ile kadrosuzluk nedeniyle emekliye ayırma hariç her türlü ilişik kesme kararlarına karşı yargı yolu açıktır.
-
 İdarî işlemlere karşı açılacak davalarda süre, yazılı bildirim tarihinden başlar.
 
 Yargı yetkisi, idarî eylem ve işlemlerin hukuka uygunluğunun denetimi ile sınırlı olup, hiçbir surette yerindelik denetimi şeklinde kullanılamaz.
@@ -1435,7 +1263,7 @@ Yürütme görevinin kanunlarda gösterilen şekil ve esaslara uygun olarak yeri
 
 İdarî işlemin uygulanması halinde telafisi güç veya imkânsız zararların doğması ve idarî işlemin açıkça hukuka aykırı olması şartlarının birlikte gerçekleşmesi durumunda gerekçe gösterilerek yürütmenin durdurulmasına karar verilebilir.
 
-Kanun, olağanüstü hallerde, sıkıyönetim, seferberlik ve savaş halinde ayrıca millî güvenlik, kamu düzeni, genel sağlık nedenleri ile yürütmenin durdurulması kararı verilmesini sınırlayabilir.
+Kanun, olağanüstü hallerde, seferberlik ve savaş halinde ayrıca millî güvenlik, kamu düzeni, genel sağlık nedenleri ile yürütmenin durdurulması kararı verilmesini sınırlayabilir.
 
 İdare, kendi eylem ve işlemlerinden doğan zararı ödemekle yükümlüdür.
 
@@ -1458,14 +1286,14 @@ Mahallî idareler; il, belediye veya köy halkının mahallî müşterek ihtiya�
 Mahallî idarelerin kuruluş ve görevleri ile yetkileri, yerinden yönetim ilkesine uygun olarak kanunla düzenlenir.
 
 Mahallî idarelerin seçimleri, 67 nci maddedeki esaslara göre beş yılda bir yapılır.
-Ancak, milletvekili genel veya ara seçiminden önceki veya sonraki bir yıl içinde yapılması gereken mahallî idareler organlarına veya bu organların üyelerine ilişkin genel veya ara seçimler milletvekili genel veya ara seçimleriyle birlikte yapılır. Kanun, büyük yerleşim merkezleri için özel yönetim biçimleri getirebilir.
+Ancak, milletvekili genel veya ara seçiminden önceki veya sonraki bir yıl içinde yapılması gereken mahallî idareler organlarına veya bu organların üyelerine ilişkin genel veya ara seçimler milletvekili genel veya ara seçimleriyle birlikte yapılır.
 
 Mahallî idarelerin seçilmiş organlarının, organlık sıfatını kazanmalarına ilişkin itirazların çözümü ve kaybetmeleri, konusundaki denetim yargı yolu ile olur.
 Ancak, görevleri ile ilgili bir suç sebebi ile hakkında soruşturma veya kovuşturma açılan mahallî idare organları veya bu organların üyelerini, İçişleri Bakanı, geçici bir tedbir olarak, kesin hükme kadar uzaklaştırabilir.
 
 Merkezî idare, mahallî idareler üzerinde, mahallî hizmetlerin idarenin bütünlüğü ilkesine uygun şekilde yürütülmesi, kamu görevlerinde birliğin sağlanması, toplum yararının korunması ve mahallî ihtiyaçların gereği gibi karşılanması amacıyla, kanunda belirtilen esas ve usuller dairesinde idarî vesayet yetkisine sahiptir.
 
-Mahallî idarelerin belirli kamu hizmetlerinin görülmesi amacı ile, kendi aralarında Bakanlar Kurulunun izni ile birlik kurmaları, görevleri, yetkileri, maliye ve kolluk işleri ve merkezî idare ile karşılıklı bağ ve ilgileri kanunla düzenlenir.
+Mahallî idarelerin belirli kamu hizmetlerinin görülmesi amacı ile, kendi aralarında Cumhurbaşkanının izni ile birlik kurmaları, görevleri, yetkileri, maliye ve kolluk işleri ve merkezî idare ile karşılıklı bağ ve ilgileri kanunla düzenlenir.
 Bu idarelere, görevleri ile orantılı gelir kaynakları sağlanır.
 
 **D. Kamu hizmeti görevlileriyle ilgili hükümler**
@@ -1522,7 +1350,7 @@ Vakıflar tarafından kurulan yükseköğretim kurumları, malî ve idarî konul
 
 Yükseköğretim kurumlarının öğretimini planlamak, düzenlemek, yönetmek, denetlemek, yükseköğretim kurumlarındaki eğitim- öğretim ve bilimsel araştırma faaliyetlerini yönlendirmek bu kurumların kanunda belirtilen amaç ve ilkeler doğrultusunda kurulmasını, geliştirilmesini ve üniversitelere tahsis edilen kaynakların etkili bir biçimde kullanılmasını sağlamak ve öğretim elemanlarının yetiştirilmesi için planlama yapmak maksadı ile Yükseköğretim Kurulu kurulur.
 
-Yükseköğretim Kurulu, üniversiteler ve Bakanlar Kurulunca seçilen ve sayıları, nitelikleri, seçilme usulleri kanunla belirlenen adaylar arasından rektörlük ve öğretim üyeliğinde başarılı hizmet yapmış profesörlere öncelik vermek sureti ile Cumhurbaşkanınca atanan üyeler ve Cumhurbaşkanınca doğrudan doğruya seçilen üyelerden kurulur.
+Yükseköğretim Kurulu, üniversiteler tarafından seçilen ve sayıları, nitelikleri, seçilme usulleri kanunla belirlenen adaylar arasından rektörlük ve öğretim üyeliğinde başarılı hizmet yapmış profesörlere öncelik vermek sureti ile Cumhurbaşkanınca atanan üyeler ve Cumhurbaşkanınca doğrudan doğruya seçilen üyelerden kurulur.
 
 Kurulun teşkilatı, görev, yetki, sorumluluğu ve çalışma esasları kanunla düzenlenir.
 
@@ -1542,7 +1370,7 @@ Devletçe kamu tüzelkişiliği olarak kurulan tek radyo ve televizyon kurumu il
 
 **G. Atatürk Kültür, Dil ve Tarih Yüksek Kurumu (MADDE 134)**
 
-Atatürkçü düşünceyi, Atatürk ilke ve inkılâplarını, Türk kültürünü, Türk tarihini ve Türk dilini bilimsel yoldan araştırmak, tanıtmak ve yaymak ve yayınlar yapmak amacıyla; Atatürk’ün manevî himayelerinde, Cumhurbaşkanının gözetim ve desteğinde, Başbakanlığa bağlı; Atatürk Araştırma Merkezi, Türk Dil Kurumu, Türk Tarih Kurumu ve Atatürk Kültür Merkezinden oluşan, kamu tüzelkişiliğine sahip “Atatürk Kültür, Dil ve Tarih Yüksek Kurumu” kurulur.
+Atatürkçü düşünceyi, Atatürk ilke ve inkılâplarını, Türk kültürünü, Türk tarihini ve Türk dilini bilimsel yoldan araştırmak, tanıtmak ve yaymak ve yayınlar yapmak amacıyla; Atatürk’ün manevî himayelerinde, Cumhurbaşkanının gözetim ve desteğinde, Cumhurbaşkanının görevlendireceği bakana bağlı; Atatürk Araştırma Merkezi, Türk Dil Kurumu, Türk Tarih Kurumu ve Atatürk Kültür Merkezinden oluşan, kamu tüzelkişiliğine sahip “Atatürk Kültür, Dil ve Tarih Yüksek Kurumu” kurulur.
 
 Türk Dil Kurumu ile Türk Tarih Kurumu için Atatürk’ün vasiyetnamesinde belirtilen malî menfaatler saklı olup kendilerine tahsis edilir.
 
@@ -1572,7 +1400,7 @@ Genel idare içinde yer alan Diyanet İşleri Başkanlığı, lâiklik ilkesi do
 
 **J. Kanunsuz emir (MADDE 137)**
 
-Kamu hizmetlerinde herhangi bir sıfat ve suretle çalışmakta olan kimse, üstünden aldığı emri, yönetmelik, tüzük, kanun veya Anayasa hükümlerine aykırı görürse, yerine getirmez ve bu aykırılığı o emri verene bildirir. Ancak, üstü emrinde ısrar eder ve bu emrini yazı ile yenilerse, emir yerine getirilir; bu halde, emri yerine getiren sorumlu olmaz.
+Kamu hizmetlerinde herhangi bir sıfat ve suretle çalışmakta olan kimse, üstünden aldığı emri, yönetmelik, Cumhurbaşkanlığı kararnamesi, kanun veya Anayasa hükümlerine aykırı görürse, yerine getirmez ve bu aykırılığı o emri verene bildirir. Ancak, üstü emrinde ısrar eder ve bu emrini yazı ile yenilerse, emir yerine getirilir; bu halde, emri yerine getiren sorumlu olmaz.
 
 Konusu suç teşkil eden emir, hiçbir suretle yerine getirilmez; yerine getiren kimse sorumluluktan kurtulamaz.
 
@@ -1642,17 +1470,7 @@ Ancak, savaş halinde asker kişilerin görevleri ile ilgili olarak işledikleri
 Adalet hizmetleri ile savcıların idarî görevleri yönünden Adalet Bakanlığınca denetimi, adalet müfettişleri ile hâkim ve savcı mesleğinden olan iç denetçiler; araştırma, inceleme ve soruşturma işlemleri ise adalet müfettişleri eliyle yapılır.
 Buna ilişkin usul ve esaslar kanunla düzenlenir.
 
-**H. Askerî yargı (MADDE 145)**
-
-Askerî yargı, askerî mahkemeler ve disiplin mahkemeleri tarafından yürütülür.
-Bu mahkemeler; asker kişiler tarafından işlenen askerî suçlar ile bunların asker kişiler aleyhine veya askerlik hizmet ve görevleriyle ilgili olarak işledikleri suçlara ait davalara bakmakla görevlidir.
-Devletin güvenliğine, anayasal düzene ve bu düzenin işleyişine karşı suçlara ait davalar her halde adliye mahkemelerinde görülür.
-
-Savaş hali haricinde, asker olmayan kişiler askerî mahkemelerde yargılanamaz.
-
-Askerî mahkemelerin savaş halinde hangi suçlar ve hangi kişiler bakımından yetkili oldukları; kuruluşları ve gerektiğinde bu mahkemelerde adlî yargı hâkim ve savcılarının görevlendirilmeleri kanunla düzenlenir.
-
-Askerî yargı organlarının kuruluşu, işleyişi, askerî hâkimlerin özlük işleri, askerî savcılık görevlerini yapan askerî hâkimlerin görevli bulundukları komutanlıkla ilişkileri, mahkemelerin bağımsızlığı ve hâkimlik teminatı esaslarına göre kanunla düzenlenir.
+**H. (MADDE 145)** `Mülga`
 
 **II. Yüksek mahkemeler**
 
@@ -1660,15 +1478,15 @@ Askerî yargı organlarının kuruluşu, işleyişi, askerî hâkimlerin özlük
 
 **1. Kuruluşu (MADDE 146)**
 
-Anayasa Mahkemesi onyedi üyeden kurulur.
+Anayasa Mahkemesi onbeş üyeden kurulur.
 
 Türkiye Büyük Millet Meclisi; iki üyeyi Sayıştay Genel Kurulunun kendi başkan ve üyeleri arasından, her boş yer için gösterecekleri üçer aday içinden, bir üyeyi ise baro başkanlarının serbest avukatlar arasından gösterecekleri üç aday içinden yapacağı gizli oylamayla seçer.
 Türkiye Büyük Millet Meclisinde yapılacak bu seçimde, her boş üyelik için ilk oylamada üye tam sayısının üçte iki ve ikinci oylamada üye tam sayısının salt çoğunluğu aranır.
 İkinci oylamada salt çoğunluk sağlanamazsa, bu oylamada en çok oy alan iki aday için üçüncü oylama yapılır; üçüncü oylamada en fazla oy alan aday üye seçilmiş olur.
 
-Cumhurbaşkanı; üç üyeyi Yargıtay, iki üyeyi Danıştay, bir üyeyi Askerî Yargıtay, bir üyeyi Askerî Yüksek İdare Mahkemesi genel kurullarınca kendi başkan ve üyeleri arasından her boş yer için gösterecekleri üçer aday içinden; en az ikisi hukukçu olmak üzere üç üyeyi Yükseköğretim Kurulunun kendi üyesi olmayan yükseköğretim kurumlarının hukuk, iktisat ve siyasal bilimler dallarında görev yapan öğretim üyeleri arasından göstereceği üçer aday içinden; dört üyeyi üst kademe yöneticileri, serbest avukatlar, birinci sınıf hâkim ve savcılar ile en az beş yıl raportörlük yapmış Anayasa Mahkemesi raportörleri arasından seçer.
+Cumhurbaşkanı; üç üyeyi Yargıtay, iki üyeyi Danıştay genel kurullarınca kendi başkan ve üyeleri arasından her boş yer için gösterecekleri üçer aday içinden; en az ikisi hukukçu olmak üzere üç üyeyi Yükseköğretim Kurulunun kendi üyesi olmayan yükseköğretim kurumlarının hukuk, iktisat ve siyasal bilimler dallarında görev yapan öğretim üyeleri arasından göstereceği üçer aday içinden; dört üyeyi üst kademe yöneticileri, serbest avukatlar, birinci sınıf hâkim ve savcılar ile en az beş yıl raportörlük yapmış Anayasa Mahkemesi raportörleri arasından seçer.
 
-Yargıtay, Danıştay, Askerî Yargıtay, Askerî Yüksek İdare Mahkemesi ve Sayıştay genel kurulları ile Yükseköğretim Kurulundan Anayasa Mahkemesi üyeliğine aday göstermek için yapılacak seçimlerde, her boş üyelik için, en fazla oy alan üç kişi aday gösterilmiş sayılır.
+Yargıtay, Danıştay ve Sayıştay genel kurulları ile Yükseköğretim Kurulundan Anayasa Mahkemesi üyeliğine aday göstermek için yapılacak seçimlerde, her boş üyelik için, en fazla oy alan üç kişi aday gösterilmiş sayılır.
 Baro başkanlarının serbest avukatlar arasından gösterecekleri üç aday için yapılacak seçimde en fazla oy alan üç kişi aday gösterilmiş sayılır.
 
 Anayasa Mahkemesine üye seçilebilmek için, kırkbeş yaşın doldurulmuş olması kaydıyla; yükseköğretim kurumları öğretim üyelerinin profesör veya doçent unvanını kazanmış, avukatların en az yirmi yıl fiilen avukatlık yapmış, üst kademe yöneticilerinin yükseköğrenim görmüş ve en az yirmi yıl kamu hizmetinde fiilen çalışmış, birinci sınıf hâkim ve savcıların adaylık dahil en az yirmi yıl çalışmış olması şarttır.
@@ -1688,9 +1506,9 @@ Anayasa Mahkemesi üyeliği, bir üyenin hâkimlik mesleğinden çıkarılmayı 
 
 **3. Görev ve yetkileri (MADDE 148)**
 
-Anayasa Mahkemesi, kanunların, kanun hükmünde kararnamelerin ve Türkiye Büyük Millet Meclisi İçtüzüğünün Anayasaya şekil ve esas bakımlarından uygunluğunu denetler ve bireysel başvuruları karara bağlar.
+Anayasa Mahkemesi, kanunların, Cumhurbaşkanlığı kararnamelerinin ve Türkiye Büyük Millet Meclisi İçtüzüğünün Anayasaya şekil ve esas bakımlarından uygunluğunu denetler ve bireysel başvuruları karara bağlar.
 Anayasa değişikliklerini ise sadece şekil bakımından inceler ve denetler.
-Ancak, olağanüstü hallerde, sıkıyönetim ve savaş hallerinde çıkarılan kanun hükmünde kararnamelerin şekil ve esas bakımından Anayasaya aykırılığı iddiasıyla, Anayasa Mahkemesinde dava açılamaz.
+Ancak, olağanüstü hallerde ve savaş hallerinde çıkarılan kanun hükmünde kararnamelerin şekil ve esas bakımından Anayasaya aykırılığı iddiasıyla, Anayasa Mahkemesinde dava açılamaz.
 
 Kanunların şekil bakımından denetlenmesi, son oylamanın, öngörülen çoğunlukla yapılıp yapılmadığı; Anayasa değişikliklerinde ise, teklif ve oylama çoğunluğuna ve ivedilikle görüşülemeyeceği şartına uyulup uyulmadığı hususları ile sınırlıdır.
 Şekil bakımından denetleme, Cumhurbaşkanınca veya Türkiye Büyük Millet Meclisi üyelerinin beşte biri tarafından istenebilir.
@@ -1703,7 +1521,7 @@ Bireysel başvuruda, kanun yolunda gözetilmesi gereken hususlarda inceleme yap�
 
 Bireysel başvuruya ilişkin usul ve esaslar kanunla düzenlenir.
 
-Anayasa Mahkemesi Cumhurbaşkanını, Türkiye Büyük Millet Meclisi Başkanını, Bakanlar Kurulu üyelerini, Anayasa Mahkemesi, Yargıtay, Danıştay, Askerî Yargıtay, Askerî Yüksek İdare Mahkemesi Başkan ve üyelerini, Başsavcılarını, Cumhuriyet Başsavcıvekilini, Hâkimler ve Savcılar Yüksek Kurulu ve Sayıştay Başkan ve üyelerini görevleriyle ilgili suçlardan dolayı Yüce Divan sıfatıyla yargılar.
+Anayasa Mahkemesi Cumhurbaşkanını, Türkiye Büyük Millet Meclisi Başkanını, Cumhurbaşkanı yardımcılarını, bakanları, Anayasa Mahkemesi, Yargıtay, Danıştay Başkan ve üyelerini, Başsavcılarını, Cumhuriyet Başsavcıvekilini, Hâkimler ve Savcılar Kurulu ve Sayıştay Başkan ve üyelerini görevleriyle ilgili suçlardan dolayı Yüce Divan sıfatıyla yargılar.
 
 Genelkurmay Başkanı, Kara, Deniz ve Hava Kuvvetleri Komutanları ile Jandarma Genel Komutanı da görevleriyle ilgili suçlardan dolayı Yüce Divanda yargılanırlar.
 
@@ -1734,16 +1552,15 @@ Mahkeme ayrıca, gerekli gördüğü hallerde sözlü açıklamalarını dinleme
 
 **5. İptal davası (MADDE 150)**
 
-Kanunların, kanun hükmündeki kararnamelerin, Türkiye Büyük Millet Meclisi İçtüzüğünün veya bunların belirli madde ve hükümlerinin şekil ve esas bakımından Anayasaya aykırılığı iddiasıyla Anayasa Mahkemesinde doğrudan doğruya iptal davası açabilme hakkı, Cumhurbaşkanına, iktidar ve anamuhalefet partisi Meclis grupları ile Türkiye Büyük Millet Meclisi üye tamsayısının en az beşte biri tutarındaki üyelere aittir.
-İktidarda birden fazla siyasi partinin bulunması halinde, iktidar partilerinin dava açma hakkını en fazla üyeye sahip olan parti kullanır.
+Kanunların, Cumhurbaşkanlığı kararnamelerinin, Türkiye Büyük Millet Meclisi İçtüzüğünün veya bunların belirli madde ve hükümlerinin şekil ve esas bakımından Anayasaya aykırılığı iddiasıyla Anayasa Mahkemesinde doğrudan doğruya iptal davası açabilme hakkı, Cumhurbaşkanına, Türkiye Büyük Millet Meclisinde en fazla üyeye sahip iki siyasi parti grubuna ve üye tamsayısının en az beşte biri tutarındaki üyelere aittir.
 
 **6. Dava açma süresi (MADDE 151)**
 
-Anayasa Mahkemesinde doğrudan doğruya iptal davası açma hakkı, iptali istenen kanun, kanun hükmünde kararname veya İçtüzüğün Resmî Gazetede yayımlanmasından başlayarak altmış gün sonra düşer.
+Anayasa Mahkemesinde doğrudan doğruya iptal davası açma hakkı, iptali istenen kanun, CUmhurbaşkanlığı kararnamesi veya İçtüzüğün Resmî Gazetede yayımlanmasından başlayarak altmış gün sonra düşer.
 
 **7. Anayasaya aykırılığın diğer mahkemelerde ileri sürülmesi (MADDE 152)**
 
-Bir davaya bakmakta olan mahkeme, uygulanacak bir kanun veya kanun hükmünde kararnamenin hükümlerini Anayasaya aykırı görürse veya taraflardan birinin ileri sürdüğü aykırılık iddiasının ciddî olduğu kanısına varırsa, Anayasa Mahkemesinin bu konuda vereceği karara kadar davayı geri bırakır.
+Bir davaya bakmakta olan mahkeme, uygulanacak bir kanun veya Cumhurbaşkanlığı kararnamesinin hükümlerini Anayasaya aykırı görürse veya taraflardan birinin ileri sürdüğü aykırılık iddiasının ciddî olduğu kanısına varırsa, Anayasa Mahkemesinin bu konuda vereceği karara kadar davayı geri bırakır.
 
 Mahkeme, Anayasaya aykırılık iddiasını ciddî görmezse bu iddia, temyiz merciince esas hükümle birlikte karara bağlanır.
 
@@ -1757,7 +1574,7 @@ Anayasa Mahkemesinin işin esasına girerek verdiği red kararının Resmî Gaze
 
 Anayasa Mahkemesinin kararları kesindir. İptal kararları gerekçesi yazılmadan açıklanamaz.
 
-Anayasa Mahkemesi bir kanun veya kanun hükmünde kararnamenin tamamını veya bir hükmünü iptal ederken, kanun koyucu gibi hareketle, yeni bir uygulamaya yol açacak biçimde hüküm tesis edemez.
+Anayasa Mahkemesi bir kanun veya Cumhurbaşkanlığı kararnamesinin tamamını veya bir hükmünü iptal ederken, kanun koyucu gibi hareketle, yeni bir uygulamaya yol açacak biçimde hüküm tesis edemez.
 
 Kanun, kanun hükmünde kararname veya Türkiye Büyük Millet Meclisi İçtüzüğü ya da bunların hükümleri, iptal kararlarının Resmî Gazetede yayımlandığı tarihte yürürlükten kalkar.
 Gereken hallerde Anayasa Mahkemesi iptal hükmünün yürürlüğe gireceği tarihi ayrıca kararlaştırabilir.
@@ -1774,7 +1591,7 @@ Anayasa Mahkemesi kararları Resmî Gazetede hemen yayımlanır ve yasama, yür�
 Yargıtay, adliye mahkemelerince verilen ve kanunun başka bir adlî yargı merciine bırakmadığı karar ve hükümlerin son inceleme merciidir.
 Kanunla gösterilen belli davalara da ilk ve son derece mahkemesi olarak bakar.
 
-Yargıtay üyeleri, birinci sınıfa ayrılmış adlî yargı hâkim ve Cumhuriyet savcıları ile bu meslekten sayılanlar arasından Hâkimler ve Savcılar Yüksek Kurulunca üye tamsayısının salt çoğunluğu ile ve gizli oyla seçilir.
+Yargıtay üyeleri, birinci sınıfa ayrılmış adlî yargı hâkim ve Cumhuriyet savcıları ile bu meslekten sayılanlar arasından Hâkimler ve Savcılar Kurulunca üye tamsayısının salt çoğunluğu ile ve gizli oyla seçilir.
 
 Yargıtay Birinci Başkanı, birinci başkanvekilleri ve daire başkanları kendi üyeleri arasından Yargıtay Genel Kurulunca üye tamsayısının salt çoğunluğu ve gizli oyla dört yıl için seçilirler; süresi bitenler yeniden seçilebilirler.
 
@@ -1788,41 +1605,21 @@ Yargıtayın kuruluşu, işleyişi, Başkan, başkanvekilleri, daire başkanlar�
 Danıştay, idarî mahkemelerce verilen ve kanunun başka bir idarî yargı merciine bırakmadığı karar ve hükümlerin son inceleme merciidir.
 Kanunla gösterilen belli davalara da ilk ve son derece mahkemesi olarak bakar.
 
-Danıştay, davaları görmek, Başbakan ve Bakanlar Kurulunca gönderilen kanun tasarıları, kamu hizmetleri ile ilgili imtiyaz şartlaşma ve sözleşmeleri hakkında iki ay içinde düşüncesini bildirmek, tüzük tasarılarını incelemek, idarî uyuşmazlıkları çözmek ve kanunla gösterilen diğer işleri yapmakla görevlidir.
+Danıştay, davaları görmek, kamu hizmetleri ile ilgili imtiyaz şartlaşma ve sözleşmeleri hakkında iki ay içinde düşüncesini bildirmek, idarî uyuşmazlıkları çözmek ve kanunla gösterilen diğer işleri yapmakla görevlidir.
 
-Danıştay üyelerinin dörtte üçü, birinci sınıf idarî yargı hâkim ve savcıları ile bu meslekten sayılanlar arasından Hâkimler ve Savcılar Yüksek Kurulu; dörtte biri, nitelikleri kanunda belirtilen görevliler arasından Cumhurbaşkanı; tarafından seçilir.
+Danıştay üyelerinin dörtte üçü, birinci sınıf idarî yargı hâkim ve savcıları ile bu meslekten sayılanlar arasından Hâkimler ve Savcılar Kurulu; dörtte biri, nitelikleri kanunda belirtilen görevliler arasından Cumhurbaşkanı; tarafından seçilir.
 
 Danıştay Başkanı, Başsavcı, başkanvekilleri ve daire başkanları, kendi üyeleri arasından Danıştay Genel Kurulunca üye tamsayısının salt çoğunluğu ve gizli oyla dört yıl için seçilirler. Süresi bitenler yeniden seçilebilirler.
 
 Danıştayın, kuruluşu, işleyişi, Başkan, Başsavcı, başkanvekilleri, daire başkanları ile üyelerinin nitelikleri ve seçim usulleri, idarî yargının özelliği, mahkemelerin bağımsızlığı ve hâkimlik teminatı esaslarına göre kanunla düzenlenir.
 
-**D.  Askerî Yargıtay (MADDE 156)**
+**D. (MADDE 156)** `Mülga`
 
-Askerî Yargıtay, askerî mahkemelerden verilen karar ve hükümlerin son inceleme merciidir.
-Ayrıca, asker kişilerin kanunla gösterilen belli davalarına ilk ve son derece mahkemesi olarak bakar.
-
-Askerî Yargıtay üyeleri birinci sınıf askerî hâkimler arasından Askerî Yargıtay Genel Kurulunun üye tamsayısının salt çoğunluğu ve gizli oyla her boş yer için göstereceği üçer aday içinden Cumhurbaşkanınca seçilir.
-
-Askerî Yargıtay Başkanı, Başsavcısı, İkinci Başkanı ve daire başkanları Askerî Yargıtay üyeleri arasından rütbe ve kıdem sırasına göre atanırlar.
-
-Askerî Yargıtayın kuruluşu, işleyişi, mensuplarının disiplin ve özlük işleri mahkemelerin bağımsızlığı ve hâkimlik teminatı esaslarına göre kanunla düzenlenir.
-
-**E. Askerî Yüksek İdare Mahkemesi (MADDE 157)**
-
-Askerî Yüksek İdare Mahkemesi, askerî olmayan makamlarca tesis edilmiş olsa bile, asker kişileri ilgilendiren ve askerî hizmete ilişkin idarî işlem ve eylemlerden doğan uyuşmazlıkların yargı denetimini yapan ilk ve son derece mahkemesidir.
-Ancak, askerlik yükümlülüğünden doğan uyuşmazlıklarda ilgilinin asker kişi olması şartı aranmaz.
-
-Askerî Yüksek İdare Mahkemesinin askerî hâkim sınıfından olan üyeleri, mahkemenin bu sınıftan olan başkan ve üyeleri tamsayısının salt çoğunluğu ve gizli oy ile birinci sınıf askerî hâkimler arasından her boş yer için gösterilecek üç aday içinden; hâkim sınıfından olmayan üyeleri, rütbe ve nitelikleri kanunda gösterilen subaylar arasından, Genelkurmay Başkanlığınca her boş yer için gösterilecek üç aday içinden Cumhurbaşkanınca seçilir.
-
-Askerî hâkim sınıfından olmayan üyelerin görev süresi en fazla dört yıldır.
-
-Mahkemenin Başkanı, Başsavcı ve daire başkanları hâkim sınıfından olanlar arasından rütbe ve kıdem sırasına göre atanırlar.
-
-Askerî Yüksek İdare Mahkemesinin kuruluşu, işleyişi, yargılama usulleri, mensuplarının disiplin ve özlük işleri mahkemelerin bağımsızlığı ve hâkimlik teminatı esaslarına göre kanunla düzenlenir.
+**E. (MADDE 157)** `Mülga`
 
 **F. Uyuşmazlık Mahkemesi (MADDE 158)**
 
-Uyuşmazlık Mahkemesi adlî, idarî ve askerî yargı mercileri arasındaki görev ve hüküm uyuşmazlıklarını kesin olarak çözümlemeye yetkilidir.
+Uyuşmazlık Mahkemesi adlî ve idarî yargı mercileri arasındaki görev ve hüküm uyuşmazlıklarını kesin olarak çözümlemeye yetkilidir.
 
 Uyuşmazlık Mahkemesinin kuruluşu, üyelerinin nitelikleri ve seçimleri ile işleyişi kanunla düzenlenir. Bu mahkemenin Başkanlığını Anayasa Mahkemesince, kendi üyeleri arasından görevlendirilen üye yapar.
 
@@ -1926,34 +1723,11 @@ Kesinhesap kanunu teklifi ve genel uygunluk bildiriminin Türkiye Büyük Millet
 
 Kesınhesap kanunu teklifi, yeni yıl bütçe kanunu teklifiyle birlikte görüşürür ve karara bağlanır.
 
-**B. Bütçenin görüşülmesi (MADDE 162)**
+**B.(MADDE 162)** `Mülga`
 
-Bakanlar Kurulu, merkezî yönetim bütçe tasarısı ile millî bütçe tahminlerini gösteren raporu, malî yıl başından en az yetmişbeş gün önce, Türkiye Büyük Millet Meclisine sunar.
+**C. (MADDE 163)** `Mülga`
 
-Bütçe tasarıları ve rapor, kırk üyeden kurulu Bütçe Komisyonunda incelenir.
-Bu komisyonun kuruluşunda, iktidar grubuna veya gruplarına en az yirmibeş üye verilmek şartı ile, siyasî parti gruplarının ve bağımsızların oranlarına göre temsili göz önünde tutulur.
-
-Bütçe Komisyonunun ellibeş gün içinde kabul edeceği metin, Türkiye Büyük Millet Meclisinde görüşülür ve malî yıl başına kadar karara bağlanır.
-
-Türkiye Büyük Millet Meclisi üyeleri, Genel Kurulda, kamu idare bütçeleri hakkında düşüncelerini, her bütçenin tümü üzerindeki görüşmeler sırasında açıklarlar; bölümler ve değişiklik önergeleri, üzerinde ayrıca görüşme yapılmaksızın okunur ve oylanır.
-
-Türkiye Büyük Millet Meclisi üyeleri, bütçe kanunu tasarılarının Genel Kurulda görüşülmesi sırasında, gider artırıcı veya gelirleri azaltıcı önerilerde bulunamazlar.
-
-**C. Bütçelerde değişiklik yapılabilme esasları (MADDE 163)**
-
-Merkezî yönetim bütçesiyle verilen ödenek, harcanabilecek miktarın sınırını gösterir.
-Harcanabilecek miktar sınırının Bakanlar Kurulu kararıyla aşılabileceğine dair bütçelere hüküm konulamaz.
-Bakanlar Kuruluna kanun hükmünde kararname ile bütçede değişiklik yapmak yetkisi verilemez.
-Carî yıl bütçesindeki ödenek artışını öngören değişiklik tasarılarında ve carî ve ileriki yıl bütçelerine malî yük getirecek nitelikteki kanun tasarı ve tekliflerinde, belirtilen giderleri karşılayabilecek malî kaynak gösterilmesi zorunludur.
-
-**D. Kesinhesap (MADDE 164)**
-
-Kesinhesap kanunu tasarıları, kanunda daha kısa bir süre kabul edilmemiş ise, ilgili oldukları malî yılın sonundan başlayarak, en geç yedi ay sonra, Bakanlar Kurulunca Türkiye Büyük Millet Meclisine sunulur. Sayıştay, genel uygunluk bildirimini, ilişkin olduğu kesinhesap kanunu tasarısının verilmesinden başlayarak en geç yetmişbeş gün içinde Türkiye Büyük Millet Meclisine sunar.
-
-Kesinhesap kanunu tasarısı, yeni yıl bütçe kanunu tasarısıyla birlikte Bütçe Komisyonu gündemine alınır.
-Bütçe Komisyonu, bütçe kanunu tasarısıyla kesinhesap kanunu tasarısını Genel Kurula birlikte sunar, Genel Kurul, kesinhesap kanunu tasarısını, yeni yıl bütçe kanunu tasarısıyla beraber görüşerek karara bağlar.
-
-Kesinhesap kanunu tasarısı ve genel uygunluk bildiriminin Türkiye Büyük Millet Meclisine verilmiş olması, ilgili yıla ait Sayıştayca sonuçlandırılamamış denetim ve hesap yargılamasını önlemez ve bunların karara bağlandığı anlamına gelmez.
+**D. (MADDE 164)** `Mülga`
 
 **E. Kamu iktisadî teşebbüslerinin denetimi (MADDE 165)**
 
@@ -1971,14 +1745,14 @@ Planda millî tasarrufu ve üretimi artırıcı, fiyatlarda istikrar ve dış ö
 
 Kalkınma planlarının hazırlanmasına, Türkiye Büyük Millet Meclisince onaylanmasına, uygulanmasına, değiştirilmesine ve bütünlüğünü bozacak değişikliklerin önlenmesine ilişkin usul ve esaslar kanunla düzenlenir.
 
-Ekonomik ve sosyal politikaların oluşturulmasında hükümete istişarî nitelikte görüş bildirmek amacıyla Ekonomik ve Sosyal Konsey kurulur.
+Ekonomik ve sosyal politikaların oluşturulmasında Cumhurbaşkanına istişarî nitelikte görüş bildirmek amacıyla Ekonomik ve Sosyal Konsey kurulur.
 Ekonomik ve Sosyal Konseyin kuruluş ve işleyişi kanunla düzenlenir.
 
 **II. Piyasaların denetimi ve dış ticaretin düzenlenmesi (MADDE 167)**
 
 Devlet, para, kredi, sermaye, mal ve hizmet piyasalarının sağlıklı ve düzenli işlemelerini sağlayıcı ve geliştirici tedbirleri alır; piyasalarda fiilî veya anlaşma sonucu doğacak tekelleşme ve kartelleşmeyi önler.
 
-Dış ticaretin ülke ekonomisinin yararına olmak üzere düzenlenmesi amacıyla ithalat, ihracat ve diğer dış ticaret işlemleri üzerine vergi ve benzeri yükümlülükler dışında ek malî yükümlülükler koymaya ve bunları kaldırmaya kanunla Bakanlar Kuruluna yetki verilebilir.
+Dış ticaretin ülke ekonomisinin yararına olmak üzere düzenlenmesi amacıyla ithalat, ihracat ve diğer dış ticaret işlemleri üzerine vergi ve benzeri yükümlülükler dışında ek malî yükümlülükler koymaya ve bunları kaldırmaya kanunla Cumhurbaşkanına yetki verilebilir.
 
 **III. Tabiî servetlerin ve kaynakların aranması ve işletilmesi (MADDE 168)**
 
