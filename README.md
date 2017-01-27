@@ -15,7 +15,7 @@ araya getirilmiştir. Bu aracı kullanarak Anayasa metninde yapılan değişikli
 
 ### Tabii ki
 
-* Bu resmi bir döküman değildir.
+* Bu resmi bir doküman değildir.
 * Öneriler kabul edildikten sonraki Anayasa metinleri farklılık gösterebilir.
 * Ben Anayasa hukukçusu değilim.
 * Arada kelime ya da imla hatası yapmış olabilirim.
